@@ -8,17 +8,16 @@ C3 is a project initiated at CWI, to explore the compression benefits of exploit
 1) __Clang++__
 2) __CMake__ 3.20 or higher
 
-### Run:
-
 ```shell
     mkdir build ; cd build
     cmake -DCMAKE_BUILD_TYPE=Release ..
     make
 ```
 
-## How to Run:
+## Build and Run Example:
 
 ```shell
-    cd example
+    cd build/example
+    make
     ./c3_example
 ```
