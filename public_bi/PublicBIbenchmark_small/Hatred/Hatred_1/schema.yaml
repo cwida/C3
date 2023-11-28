@@ -1,0 +1,63 @@
+columns:
+  - name: City
+    type: string
+  - name: Client
+    type: string
+  - name: Created Date
+    type: double
+  - name: F26
+    type: string
+  - name: F27
+    type: string
+  - name: F28
+    type: string
+  - name: FF Ratio
+    type: double
+  - name: Favorites
+    type: integer
+  - name: Followers
+    type: integer
+  - name: Following
+    type: integer
+  - name: Gender
+    type: string
+  - name: Influencer?
+    type: integer
+  - name: Joined
+    type: double
+  - name: Keyword
+    type: string
+  - name: LPF
+    type: double
+  - name: Language
+    type: string
+  - name: Lat
+    type: double
+  - name: Listed
+    type: integer
+  - name: Location Type
+    type: string
+  - name: Long
+    type: double
+  - name: Name
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: Region
+    type: string
+  - name: Self Report Location
+    type: string
+  - name: 'State '
+    type: string
+  - name: StatePopName
+    type: string
+  - name: StatePopNum
+    type: integer
+  - name: Tweet Text
+    type: string
+  - name: Tweets
+    type: integer
+  - name: Username
+    type: string
+  - name: profile desc
+    type: string

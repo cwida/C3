@@ -1,0 +1,108 @@
+Verifying dataset Arade_1
+Compressing: Arade_1; Row Group 0
+Verifying: Arade_1; Row Group 0
+Verifying dataset Bimbo_1
+Compressing: Bimbo_1; Row Group 0
+Verifying: Bimbo_1; Row Group 0
+Verifying dataset CityMaxCapita_1
+Compressing: CityMaxCapita_1; Row Group 0
+Verifying: CityMaxCapita_1; Row Group 0
+Verifying dataset CMSprovider_1
+Compressing: CMSprovider_1; Row Group 0
+Verifying: CMSprovider_1; Row Group 0
+Verifying dataset CommonGovernment_1
+Compressing: CommonGovernment_1; Row Group 0
+Verifying: CommonGovernment_1; Row Group 0
+Verifying dataset Corporations_1
+Compressing: Corporations_1; Row Group 0
+Verifying: Corporations_1; Row Group 0
+Verifying dataset Eixo_1
+Compressing: Eixo_1; Row Group 0
+Verifying: Eixo_1; Row Group 0
+Verifying dataset Euro2016_1
+Compressing: Euro2016_1; Row Group 0
+Verifying: Euro2016_1; Row Group 0
+Verifying dataset Food_1
+Compressing: Food_1; Row Group 0
+Verifying: Food_1; Row Group 0
+Verifying dataset Generico_1
+Compressing: Generico_1; Row Group 0
+Verifying: Generico_1; Row Group 0
+Verifying dataset HashTags_1
+Compressing: HashTags_1; Row Group 0
+Verifying: HashTags_1; Row Group 0
+Verifying dataset Hatred_1
+Compressing: Hatred_1; Row Group 0
+Verifying: Hatred_1; Row Group 0
+Verifying dataset IGlocations1_1
+Compressing: IGlocations1_1; Row Group 0
+Verifying: IGlocations1_1; Row Group 0
+Verifying dataset Medicare1_1
+Compressing: Medicare1_1; Row Group 0
+Verifying: Medicare1_1; Row Group 0
+Verifying dataset MedPayment1_1
+Compressing: MedPayment1_1; Row Group 0
+Verifying: MedPayment1_1; Row Group 0
+Verifying dataset MLB_1
+Compressing: MLB_1; Row Group 0
+Verifying: MLB_1; Row Group 0
+Verifying dataset Motos_1
+Compressing: Motos_1; Row Group 0
+Verifying: Motos_1; Row Group 0
+Verifying dataset MulheresMil_1
+Compressing: MulheresMil_1; Row Group 0
+Verifying: MulheresMil_1; Row Group 0
+Verifying dataset NYC_1
+Compressing: NYC_1; Row Group 0
+Verifying: NYC_1; Row Group 0
+Verifying dataset PanCreactomy1_1
+Compressing: PanCreactomy1_1; Row Group 0
+Verifying: PanCreactomy1_1; Row Group 0
+Verifying dataset Physicians_1
+Compressing: Physicians_1; Row Group 0
+Verifying: Physicians_1; Row Group 0
+Verifying dataset Provider_1
+Compressing: Provider_1; Row Group 0
+Verifying: Provider_1; Row Group 0
+Verifying dataset RealEstate1_1
+Compressing: RealEstate1_1; Row Group 0
+Verifying: RealEstate1_1; Row Group 0
+Verifying dataset Redfin1_1
+Compressing: Redfin1_1; Row Group 0
+Verifying: Redfin1_1; Row Group 0
+Verifying dataset Rentabilidad_1
+Compressing: Rentabilidad_1; Row Group 0
+Verifying: Rentabilidad_1; Row Group 0
+Verifying dataset Romance_1
+Compressing: Romance_1; Row Group 0
+Verifying: Romance_1; Row Group 0
+Verifying dataset SalariesFrance_1
+Compressing: SalariesFrance_1; Row Group 0
+Verifying: SalariesFrance_1; Row Group 0
+Verifying dataset TableroSistemaPenal_1
+Compressing: TableroSistemaPenal_1; Row Group 0
+Verifying: TableroSistemaPenal_1; Row Group 0
+Verifying dataset Taxpayer_1
+Compressing: Taxpayer_1; Row Group 0
+Verifying: Taxpayer_1; Row Group 0
+Verifying dataset Telco_1
+Compressing: Telco_1; Row Group 0
+Verifying: Telco_1; Row Group 0
+Verifying dataset TrainsUK1_2
+Compressing: TrainsUK1_2; Row Group 0
+Verifying: TrainsUK1_2; Row Group 0
+Verifying dataset TrainsUK2_1
+Compressing: TrainsUK2_1; Row Group 0
+Verifying: TrainsUK2_1; Row Group 0
+Verifying dataset Uberlandia_1
+Compressing: Uberlandia_1; Row Group 0
+Verifying: Uberlandia_1; Row Group 0
+Verifying dataset USCensus_1
+Compressing: USCensus_1; Row Group 0
+Verifying: USCensus_1; Row Group 0
+Verifying dataset Wins_1
+Compressing: Wins_1; Row Group 0
+Verifying: Wins_1; Row Group 0
+Verifying dataset YaleLanguages_1
+Compressing: YaleLanguages_1; Row Group 0
+Verifying: YaleLanguages_1; Row Group 0

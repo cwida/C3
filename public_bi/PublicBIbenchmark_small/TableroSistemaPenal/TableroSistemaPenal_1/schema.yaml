@@ -1,0 +1,55 @@
+columns:
+  - name: AGRUPADOR
+    type: string
+  - name: "A\xF1o Ingreso"
+    type: string
+  - name: CLASE
+    type: string
+  - name: COD DELITO
+    type: double
+  - name: "COD. REGI\xD3N"
+    type: integer
+  - name: COMUNA
+    type: string
+  - name: CORTE
+    type: string
+  - name: CREA RUC
+    type: string
+  - name: Calculation_0520821013255406
+    type: string
+  - name: Calculation_0640821194248948
+    type: string
+  - name: Calculation_7430825124450529
+    type: double
+  - name: Cod. Tribunal
+    type: integer
+  - name: DELITO
+    type: string
+  - name: Forma Inicio
+    type: string
+  - name: INGRESOS
+    type: double
+  - name: Ingresos _ Garantia (copy)
+    type: double
+  - name: "Jurisdicci\xF3n"
+    type: string
+  - name: LATITUD
+    type: string
+  - name: LONGITUD
+    type: string
+  - name: Mes Ingreso
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: "PA\xCDS"
+    type: string
+  - name: "REGI\xD3N"
+    type: string
+  - name: RPA
+    type: string
+  - name: TIPO
+    type: string
+  - name: TIP_TRIB
+    type: integer
+  - name: TRIBUNAL
+    type: string

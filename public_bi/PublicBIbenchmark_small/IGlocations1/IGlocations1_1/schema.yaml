@@ -1,0 +1,37 @@
+columns:
+  - name: CENSUS2010POP
+    type: integer
+  - name: CONCIT
+    type: integer
+  - name: COUSUB
+    type: integer
+  - name: City
+    type: string
+  - name: County Code
+    type: integer
+  - name: ESTIMATESBASE2010
+    type: integer
+  - name: FUNCSTAT
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: PLACE
+    type: integer
+  - name: POPESTIMATE2010
+    type: integer
+  - name: POPESTIMATE2011
+    type: integer
+  - name: POPESTIMATE2012
+    type: integer
+  - name: POPESTIMATE2013
+    type: integer
+  - name: POPESTIMATE2014
+    type: integer
+  - name: PRIMGEO_FLAG
+    type: integer
+  - name: SUMLEV
+    type: integer
+  - name: State code
+    type: integer
+  - name: State
+    type: string

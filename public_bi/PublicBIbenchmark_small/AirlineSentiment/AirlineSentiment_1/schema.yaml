@@ -1,0 +1,5 @@
+columns:
+  - name: Full Name
+    type: string
+  - name: Region
+    type: string

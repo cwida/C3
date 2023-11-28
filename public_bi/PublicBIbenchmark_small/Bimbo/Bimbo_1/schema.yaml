@@ -1,0 +1,25 @@
+columns:
+  - name: Agencia_ID
+    type: integer
+  - name: Canal_ID
+    type: integer
+  - name: Cliente_ID
+    type: integer
+  - name: Demanda_uni_equil
+    type: integer
+  - name: Dev_proxima
+    type: double
+  - name: Dev_uni_proxima
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: Producto_ID
+    type: integer
+  - name: Ruta_SAK
+    type: integer
+  - name: Semana
+    type: integer
+  - name: Venta_hoy
+    type: double
+  - name: Venta_uni_hoy
+    type: integer

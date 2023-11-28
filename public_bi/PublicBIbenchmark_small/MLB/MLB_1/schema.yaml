@@ -1,0 +1,97 @@
+columns:
+  - name: AB
+    type: integer
+  - name: AVG
+    type: double
+  - name: BABIP
+    type: double
+  - name: BB.
+    type: integer
+  - name: BB
+    type: integer
+  - name: BIP
+    type: integer
+  - name: FB.
+    type: double
+  - name: FB
+    type: integer
+  - name: GB.
+    type: double
+  - name: GB
+    type: integer
+  - name: GIDP
+    type: integer
+  - name: HBP
+    type: integer
+  - name: HR
+    type: integer
+  - name: H
+    type: integer
+  - name: ISO
+    type: double
+  - name: K.
+    type: integer
+  - name: LD.
+    type: double
+  - name: LD
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: OBP
+    type: double
+  - name: PA
+    type: integer
+  - name: PU.
+    type: double
+  - name: PU
+    type: integer
+  - name: SF
+    type: integer
+  - name: SH
+    type: integer
+  - name: SLG
+    type: double
+  - name: SOL
+    type: integer
+  - name: SOS
+    type: integer
+  - name: SO
+    type: integer
+  - name: TB
+    type: integer
+  - name: X1B
+    type: integer
+  - name: X2B
+    type: integer
+  - name: X3B
+    type: integer
+  - name: batter_name
+    type: string
+  - name: field
+    type: string
+  - name: iBB
+    type: integer
+  - name: league
+    type: string
+  - name: parentteam
+    type: string
+  - name: pwRC.
+    type: integer
+  - name: stand
+    type: string
+  - name: teamname
+    type: string
+  - name: wOBA
+    type: double
+  - name: wRAA
+    type: double
+  - name: wRC.
+    type: integer
+  - name: wRC
+    type: double
+  - name: year
+    type: integer
+  - name: Calculation_40532458112880653
+    type: double
+  - name: Calculation_40532458117070874
+    type: double

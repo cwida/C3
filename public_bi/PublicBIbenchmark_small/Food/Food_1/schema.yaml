@@ -1,0 +1,13 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: activity_sec
+    type: integer
+  - name: application
+    type: string
+  - name: device
+    type: string
+  - name: subscribers
+    type: integer
+  - name: volume_total_bytes
+    type: double

@@ -1,0 +1,89 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: avg_sale_to_list
+    type: double
+  - name: avg_sale_to_list_mom
+    type: double
+  - name: avg_sale_to_list_yoy
+    type: double
+  - name: city
+    type: string
+  - name: homes_sold
+    type: integer
+  - name: homes_sold_mom
+    type: double
+  - name: homes_sold_yoy
+    type: double
+  - name: inventory
+    type: integer
+  - name: inventory_mom
+    type: double
+  - name: inventory_yoy
+    type: double
+  - name: median_dom
+    type: double
+  - name: median_dom_mom
+    type: double
+  - name: median_dom_yoy
+    type: double
+  - name: median_list_ppsf
+    type: double
+  - name: median_list_ppsf_mom
+    type: double
+  - name: median_list_ppsf_yoy
+    type: double
+  - name: median_list_price
+    type: double
+  - name: median_list_price_mom
+    type: double
+  - name: median_list_price_yoy
+    type: double
+  - name: median_ppsf
+    type: double
+  - name: median_ppsf_mom
+    type: double
+  - name: median_ppsf_yoy
+    type: double
+  - name: median_sale_price
+    type: double
+  - name: median_sale_price_mom
+    type: double
+  - name: median_sale_price_yoy
+    type: double
+  - name: new_listings
+    type: integer
+  - name: new_listings_mom
+    type: double
+  - name: new_listings_yoy
+    type: double
+  - name: period_begin
+    type: skip
+  - name: period_duration
+    type: integer
+  - name: period_end
+    type: skip
+  - name: price_drops
+    type: double
+  - name: price_drops_mom
+    type: double
+  - name: price_drops_yoy
+    type: double
+  - name: property_type
+    type: string
+  - name: region
+    type: string
+  - name: region_type
+    type: string
+  - name: sold_above_list
+    type: double
+  - name: sold_above_list_mom
+    type: double
+  - name: sold_above_list_yoy
+    type: double
+  - name: state
+    type: string
+  - name: state_code
+    type: string
+  - name: table_id
+    type: integer

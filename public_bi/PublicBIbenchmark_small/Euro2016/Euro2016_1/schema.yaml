@@ -1,0 +1,23 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: id
+    type: integer
+  - name: lang
+    type: string
+  - name: latitude
+    type: string
+  - name: longitude
+    type: string
+  - name: polarity
+    type: string
+  - name: polarity_confidence
+    type: double
+  - name: subjectivity
+    type: string
+  - name: subjectivity_confidence
+    type: double
+  - name: tweet
+    type: string
+  - name: tweeted_at
+    type: skip

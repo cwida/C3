@@ -1,0 +1,955 @@
+Config:
+C3_WINDOW_SIZE: 100
+BYTES_SAVED_MARGIN: 0.010000
+C3_GRAPH_SHARE_SOURCE_NODES: 0
+REVERT_BB_IF_C3_BAD: 1
+USE_PRUNING_RULES: 1
+FINALIZE_GRAPH_RESORT_EDGES: 0
+USE_RANDOM_GENERATOR_SAMPLES: 0
+IGNORE_BB_ECR: 0
+C3_SAMPLE_NUM_RUNS: 3276
+C3_SAMPLE_RUN_SIZE: 1
+ENABLE_EQUALITY: 1
+ENABLE_DICT_1TO1: 1
+ENABLE_DICT_1TON: 1
+ENABLE_NUMERICAL: 1
+ENABLE_DFOR: 1
+ENABLE_DICT_SHARING: 1
+DICT_EXCEPTION_RATIO_THRESHOLD: 0.100000
+EQUALITY_EXCEPTION_RATIO_THRESHOLD: 0.100000
+DICTIONARY_COMPRESSION_SCHEME: 0
+DICTIONARY_CODES_COMPRESSION_SCHEME: 5
+EXCEPTION_COMPRESSION_SCHEME: 0
+DFOR_CODES_COMPRESSION_SCHEME: 5
+NUMERICAL_CODES_COMPRESSION_SCHEME: 5
+SHARE_ROW_GROUP_SCHEME: 1
+
+Compressing: Arade_1; Row Group 0
+Dict_1toN: src 0 and target 1; bytes saved source: 0; bytes saved target: 12173
+Compressing: Bimbo_1; Row Group 0
+Numerical: src 3 and target 11; bytes saved source: 0; bytes saved target: 37328
+Dict_1toN: src 6 and target 10; bytes saved source: -2065; bytes saved target: 18270
+Dict_1toN: src 9 and target 7; bytes saved source: -7923; bytes saved target: 23315
+Dict_1toN: src 1 and target 4; bytes saved source: -3095; bytes saved target: 8547
+Cancelled Dict_1toN: 1, 4
+Compressing: CityMaxCapita_1; Row Group 0
+Equal: src 22 and target 1; bytes saved source: 0; bytes saved target: 161440
+Dict_1toN: src 21 and target 17; bytes saved source: 0; bytes saved target: 55301
+Dict Sharing: src 23 and target 28; bytes saved source: -228580; bytes saved target: 283429
+DFOR: src 13 and target 25; bytes saved source: 0; bytes saved target: 34399
+Dict_1toN: src 0 and target 26; bytes saved source: 0; bytes saved target: 32238
+DFOR: src 2 and target 6; bytes saved source: 0; bytes saved target: 29211
+DFOR: src 20 and target 16; bytes saved source: 0; bytes saved target: 18658
+DFOR: src 5 and target 8; bytes saved source: 0; bytes saved target: 17319
+Dict_1to1: src 12 and target 14; bytes saved source: 0; bytes saved target: 16110
+DFOR: src 11 and target 9; bytes saved source: 0; bytes saved target: 11890
+Cancelled DFOR: 13, 25
+Cancelled DFOR: 2, 6
+Cancelled DFOR: 5, 8
+Cancelled DFOR: 11, 9
+Compressing: CMSprovider_1; Row Group 0
+Dict_1toN: src 6 and target 5; bytes saved source: 0; bytes saved target: 79157
+Dict_1toN: src 13 and target 17; bytes saved source: 0; bytes saved target: 77174
+Dict_1toN: src 12 and target 18; bytes saved source: 0; bytes saved target: 60117
+Dict_1toN: src 7 and target 11; bytes saved source: 0; bytes saved target: 45521
+Dict_1toN: src 16 and target 19; bytes saved source: 0; bytes saved target: 43363
+DFOR: src 4 and target 3; bytes saved source: 0; bytes saved target: 39759
+Dict_1to1: src 9 and target 14; bytes saved source: 0; bytes saved target: 34350
+Dict Sharing: src 20 and target 10; bytes saved source: -54497; bytes saved target: 71660
+Dict_1toN: src 21 and target 15; bytes saved source: 0; bytes saved target: 8006
+Compressing: CommonGovernment_1; Row Group 0
+Equal: src 9 and target 10; bytes saved source: 0; bytes saved target: 230373
+Equal: src 43 and target 41; bytes saved source: 0; bytes saved target: 83122
+Dict_1to1: src 44 and target 42; bytes saved source: 0; bytes saved target: 73394
+Dict_1to1: src 35 and target 34; bytes saved source: 0; bytes saved target: 73334
+Dict_1to1: src 18 and target 50; bytes saved source: 0; bytes saved target: 62442
+Dict Sharing: src 55 and target 53; bytes saved source: -813416; bytes saved target: 875325
+Equal: src 21 and target 20; bytes saved source: 0; bytes saved target: 59849
+Dict_1to1: src 12 and target 1; bytes saved source: 0; bytes saved target: 58809
+Dict_1toN: src 19 and target 14; bytes saved source: 0; bytes saved target: 51470
+Dict Sharing: src 54 and target 48; bytes saved source: -103166; bytes saved target: 149870
+Dict_1to1: src 16 and target 26; bytes saved source: 0; bytes saved target: 41246
+Dict_1to1: src 3 and target 4; bytes saved source: 0; bytes saved target: 40506
+Dict_1to1: src 49 and target 22; bytes saved source: 0; bytes saved target: 37630
+Dict Sharing: src 13 and target 52; bytes saved source: -127653; bytes saved target: 157249
+Dict_1toN: src 33 and target 45; bytes saved source: 0; bytes saved target: 26811
+Dict_1toN: src 6 and target 30; bytes saved source: 0; bytes saved target: 22319
+Dict_1toN: src 7 and target 47; bytes saved source: 0; bytes saved target: 21397
+Dict_1toN: src 24 and target 23; bytes saved source: 0; bytes saved target: 20143
+Dict_1toN: src 28 and target 11; bytes saved source: 0; bytes saved target: 11421
+DFOR: src 15 and target 5; bytes saved source: 0; bytes saved target: 9103
+Dict_1toN: src 32 and target 29; bytes saved source: 0; bytes saved target: 6571
+Cancelled DFOR: 15, 5
+Compressing: Corporations_1; Row Group 0
+Equal: src 25 and target 17; bytes saved source: 0; bytes saved target: 262708
+Dict_1to1: src 13 and target 22; bytes saved source: 0; bytes saved target: 262075
+Equal: src 16 and target 4; bytes saved source: 0; bytes saved target: 262000
+Equal: src 12 and target 10; bytes saved source: 0; bytes saved target: 261751
+Equal: src 8 and target 2; bytes saved source: 0; bytes saved target: 261511
+Equal: src 15 and target 7; bytes saved source: 0; bytes saved target: 261030
+Dict_1toN: src 6 and target 21; bytes saved source: 0; bytes saved target: 45447
+Numerical: src 0 and target 11; bytes saved source: 0; bytes saved target: 6912
+Compressing: Eixo_1; Row Group 0
+Dict_1toN: src 70 and target 2; bytes saved source: 0; bytes saved target: 95320
+Dict_1to1: src 22 and target 0; bytes saved source: 0; bytes saved target: 89098
+DFOR: src 24 and target 15; bytes saved source: 0; bytes saved target: 82124
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 74710
+Dict_1to1: src 16 and target 48; bytes saved source: 0; bytes saved target: 73866
+Dict_1to1: src 12 and target 46; bytes saved source: 0; bytes saved target: 72318
+Dict_1to1: src 13 and target 14; bytes saved source: 0; bytes saved target: 71654
+Dict_1to1: src 66 and target 67; bytes saved source: 0; bytes saved target: 41270
+Dict_1toN: src 29 and target 45; bytes saved source: 0; bytes saved target: 40737
+Dict_1to1: src 8 and target 10; bytes saved source: 0; bytes saved target: 34612
+Dict_1toN: src 28 and target 6; bytes saved source: 0; bytes saved target: 34207
+Dict_1to1: src 39 and target 30; bytes saved source: 0; bytes saved target: 32806
+DFOR: src 5 and target 9; bytes saved source: 0; bytes saved target: 31844
+Dict_1toN: src 34 and target 69; bytes saved source: 0; bytes saved target: 29823
+Dict_1to1: src 60 and target 3; bytes saved source: 0; bytes saved target: 24630
+Dict_1toN: src 32 and target 7; bytes saved source: 0; bytes saved target: 24627
+Dict_1toN: src 17 and target 62; bytes saved source: 0; bytes saved target: 20309
+Dict_1toN: src 42 and target 33; bytes saved source: 0; bytes saved target: 18369
+Dict_1to1: src 51 and target 59; bytes saved source: 0; bytes saved target: 17982
+Dict_1toN: src 61 and target 44; bytes saved source: 0; bytes saved target: 17393
+Dict_1toN: src 27 and target 63; bytes saved source: 0; bytes saved target: 17186
+Dict_1toN: src 38 and target 57; bytes saved source: 0; bytes saved target: 14767
+Dict_1toN: src 53 and target 56; bytes saved source: 0; bytes saved target: 10930
+Dict_1to1: src 58 and target 40; bytes saved source: 0; bytes saved target: 10190
+Dict_1to1: src 64 and target 23; bytes saved source: 0; bytes saved target: 10182
+Equal: src 47 and target 50; bytes saved source: 0; bytes saved target: 10175
+Dict_1to1: src 37 and target 55; bytes saved source: 0; bytes saved target: 10086
+Dict_1to1: src 65 and target 54; bytes saved source: 0; bytes saved target: 10070
+Dict_1to1: src 41 and target 20; bytes saved source: 0; bytes saved target: 9362
+Dict_1toN: src 26 and target 68; bytes saved source: 0; bytes saved target: 8165
+Dict_1toN: src 31 and target 19; bytes saved source: 0; bytes saved target: 5864
+Compressing: Euro2016_1; Row Group 0
+Dict_1to1: src 2 and target 4; bytes saved source: 0; bytes saved target: 260381
+Dict_1toN: src 7 and target 3; bytes saved source: 0; bytes saved target: 259833
+Dict_1toN: src 0 and target 5; bytes saved source: -2065; bytes saved target: 12185
+Compressing: Food_1; Row Group 0
+Dict Sharing: src 0 and target 1; bytes saved source: -15177; bytes saved target: 47873
+DFOR: src 3 and target 4; bytes saved source: 0; bytes saved target: 11792
+Compressing: Generico_1; Row Group 0
+Equal: src 8 and target 36; bytes saved source: 0; bytes saved target: 343798
+Dict Sharing: src 40 and target 9; bytes saved source: -250749; bytes saved target: 354480
+Dict_1toN: src 30 and target 29; bytes saved source: 0; bytes saved target: 81166
+Dict_1toN: src 20 and target 21; bytes saved source: 0; bytes saved target: 69759
+Dict_1to1: src 6 and target 22; bytes saved source: 0; bytes saved target: 65750
+Dict_1toN: src 34 and target 4; bytes saved source: 0; bytes saved target: 60545
+Dict_1toN: src 17 and target 33; bytes saved source: 0; bytes saved target: 42202
+Dict_1toN: src 32 and target 0; bytes saved source: 0; bytes saved target: 38217
+Dict_1toN: src 41 and target 13; bytes saved source: 0; bytes saved target: 24815
+Dict_1to1: src 39 and target 38; bytes saved source: 0; bytes saved target: 16554
+Dict_1toN: src 23 and target 37; bytes saved source: 0; bytes saved target: 15585
+Dict_1toN: src 1 and target 14; bytes saved source: 0; bytes saved target: 15550
+Dict_1toN: src 35 and target 19; bytes saved source: 0; bytes saved target: 12607
+DFOR: src 11 and target 28; bytes saved source: 0; bytes saved target: 10407
+DFOR: src 15 and target 10; bytes saved source: 0; bytes saved target: 8907
+Compressing: HashTags_1; Row Group 0
+Equal: src 45 and target 8; bytes saved source: 0; bytes saved target: 3377337
+Equal: src 58 and target 2; bytes saved source: 0; bytes saved target: 2958048
+Equal: src 21 and target 9; bytes saved source: 0; bytes saved target: 1226962
+Equal: src 60 and target 7; bytes saved source: 0; bytes saved target: 653412
+Equal: src 57 and target 6; bytes saved source: 0; bytes saved target: 627774
+Equal: src 27 and target 12; bytes saved source: 0; bytes saved target: 617475
+Equal: src 35 and target 16; bytes saved source: 0; bytes saved target: 292448
+Equal: src 53 and target 3; bytes saved source: 0; bytes saved target: 278507
+Equal: src 15 and target 34; bytes saved source: 0; bytes saved target: 240881
+Dict_1toN: src 62 and target 63; bytes saved source: 0; bytes saved target: 78063
+Dict_1to1: src 19 and target 44; bytes saved source: 0; bytes saved target: 69678
+Dict_1toN: src 24 and target 29; bytes saved source: 0; bytes saved target: 53457
+Dict Sharing: src 36 and target 56; bytes saved source: -187479; bytes saved target: 236437
+Dict_1toN: src 23 and target 22; bytes saved source: 0; bytes saved target: 42257
+DFOR: src 50 and target 61; bytes saved source: 0; bytes saved target: 30282
+DFOR: src 31 and target 48; bytes saved source: 0; bytes saved target: 27511
+Dict_1to1: src 4 and target 54; bytes saved source: 0; bytes saved target: 27166
+Equal: src 25 and target 10; bytes saved source: 0; bytes saved target: 22564
+Equal: src 26 and target 11; bytes saved source: 0; bytes saved target: 22564
+DFOR: src 55 and target 49; bytes saved source: 0; bytes saved target: 22330
+Dict_1toN: src 51 and target 65; bytes saved source: 0; bytes saved target: 13982
+Dict_1toN: src 41 and target 30; bytes saved source: 0; bytes saved target: 12103
+Cancelled DFOR: 50, 61
+Cancelled DFOR: 31, 48
+Cancelled Dict_1toN: 41, 30
+Compressing: Hatred_1; Row Group 0
+Dict_1toN: src 3 and target 4; bytes saved source: 0; bytes saved target: 67013
+Equal: src 24 and target 25; bytes saved source: 0; bytes saved target: 43036
+Dict_1toN: src 21 and target 1; bytes saved source: -2065; bytes saved target: 38793
+Dict_1toN: src 15 and target 14; bytes saved source: 0; bytes saved target: 34867
+DFOR: src 10 and target 17; bytes saved source: 0; bytes saved target: 23339
+DFOR: src 6 and target 7; bytes saved source: 0; bytes saved target: 22995
+DFOR: src 13 and target 28; bytes saved source: 0; bytes saved target: 20370
+DFOR: src 22 and target 8; bytes saved source: 0; bytes saved target: 17791
+DFOR: src 11 and target 9; bytes saved source: 0; bytes saved target: 12983
+Cancelled DFOR: 10, 17
+Cancelled DFOR: 6, 7
+Cancelled DFOR: 13, 28
+Cancelled DFOR: 22, 8
+Cancelled DFOR: 11, 9
+Compressing: IGlocations1_1; Row Group 0
+Numerical: src 0 and target 5; bytes saved source: 0; bytes saved target: 30175
+DFOR: src 17 and target 13; bytes saved source: 0; bytes saved target: 26635
+DFOR: src 15 and target 12; bytes saved source: 0; bytes saved target: 26495
+DFOR: src 14 and target 11; bytes saved source: 0; bytes saved target: 25390
+DFOR: src 1 and target 10; bytes saved source: 0; bytes saved target: 24438
+DFOR: src 7 and target 9; bytes saved source: 0; bytes saved target: 23918
+DFOR: src 6 and target 8; bytes saved source: 0; bytes saved target: 14788
+Cancelled DFOR: 17, 13
+Cancelled DFOR: 15, 12
+Cancelled DFOR: 14, 11
+Cancelled DFOR: 1, 10
+Cancelled DFOR: 7, 9
+Cancelled DFOR: 6, 8
+Compressing: Medicare1_1; Row Group 0
+Equal: src 5 and target 4; bytes saved source: 0; bytes saved target: 472015
+Dict_1toN: src 14 and target 11; bytes saved source: 0; bytes saved target: 86851
+Dict_1toN: src 10 and target 8; bytes saved source: 0; bytes saved target: 67014
+Dict_1toN: src 16 and target 13; bytes saved source: -2065; bytes saved target: 32741
+Dict_1toN: src 15 and target 12; bytes saved source: 0; bytes saved target: 26806
+DFOR: src 18 and target 20; bytes saved source: 0; bytes saved target: 21958
+DFOR: src 19 and target 21; bytes saved source: 0; bytes saved target: 21905
+DFOR: src 1 and target 0; bytes saved source: 0; bytes saved target: 21598
+Dict_1toN: src 7 and target 17; bytes saved source: -2091; bytes saved target: 18725
+DFOR: src 24 and target 25; bytes saved source: 0; bytes saved target: 4382
+Compressing: MedPayment1_1; Row Group 0
+Dict Sharing: src 14 and target 17; bytes saved source: -276198; bytes saved target: 360017
+Dict_1toN: src 7 and target 6; bytes saved source: 0; bytes saved target: 79453
+Dict Sharing: src 9 and target 20; bytes saved source: -203784; bytes saved target: 256433
+Dict_1toN: src 0 and target 21; bytes saved source: -2065; bytes saved target: 54381
+DFOR: src 5 and target 4; bytes saved source: 0; bytes saved target: 32446
+Dict Sharing: src 12 and target 13; bytes saved source: -42881; bytes saved target: 74390
+Dict_1to1: src 24 and target 23; bytes saved source: 0; bytes saved target: 9466
+Dict Sharing: src 22 and target 10; bytes saved source: -39336; bytes saved target: 48661
+Cancelled Dict_Sharing: 22, 10
+Compressing: MLB_1; Row Group 0
+DFOR: src 38 and target 43; bytes saved source: 0; bytes saved target: 56340
+Dict_1toN: src 26 and target 47; bytes saved source: -1947; bytes saved target: 48787
+DFOR: src 0 and target 20; bytes saved source: 0; bytes saved target: 46334
+Dict_1toN: src 11 and target 46; bytes saved source: -2065; bytes saved target: 43139
+Dict_1toN: src 36 and target 40; bytes saved source: 0; bytes saved target: 37337
+DFOR: src 8 and target 5; bytes saved source: 0; bytes saved target: 29559
+Dict Sharing: src 1 and target 25; bytes saved source: -3864; bytes saved target: 32377
+Dict Sharing: src 2 and target 19; bytes saved source: -208; bytes saved target: 27629
+DFOR: src 13 and target 29; bytes saved source: 0; bytes saved target: 27118
+DFOR: src 6 and target 7; bytes saved source: 0; bytes saved target: 25975
+Dict_1toN: src 18 and target 14; bytes saved source: -2065; bytes saved target: 27843
+Dict_1toN: src 35 and target 21; bytes saved source: -2065; bytes saved target: 26167
+DFOR: src 16 and target 17; bytes saved source: 0; bytes saved target: 23335
+Dict_1toN: src 3 and target 33; bytes saved source: -2065; bytes saved target: 22869
+DFOR: src 44 and target 30; bytes saved source: 0; bytes saved target: 18015
+Dict_1toN: src 4 and target 41; bytes saved source: -2065; bytes saved target: 18199
+DFOR: src 42 and target 9; bytes saved source: 0; bytes saved target: 15790
+DFOR: src 39 and target 31; bytes saved source: 0; bytes saved target: 13207
+DFOR: src 34 and target 22; bytes saved source: 0; bytes saved target: 13191
+DFOR: src 37 and target 12; bytes saved source: 0; bytes saved target: 10847
+DFOR: src 27 and target 10; bytes saved source: 0; bytes saved target: 9026
+DFOR: src 28 and target 23; bytes saved source: 0; bytes saved target: 7742
+DFOR: src 15 and target 24; bytes saved source: 0; bytes saved target: 7488
+Cancelled DFOR: 42, 9
+Cancelled DFOR: 39, 31
+Cancelled DFOR: 34, 22
+Cancelled DFOR: 37, 12
+Cancelled DFOR: 27, 10
+Cancelled DFOR: 28, 23
+Cancelled DFOR: 15, 24
+Compressing: Motos_1; Row Group 0
+Equal: src 8 and target 36; bytes saved source: 0; bytes saved target: 344978
+Dict Sharing: src 38 and target 9; bytes saved source: -250596; bytes saved target: 355490
+Dict_1toN: src 30 and target 29; bytes saved source: 0; bytes saved target: 81558
+Dict_1toN: src 20 and target 21; bytes saved source: 0; bytes saved target: 69187
+Dict_1to1: src 6 and target 22; bytes saved source: 0; bytes saved target: 66058
+Dict_1toN: src 34 and target 4; bytes saved source: 0; bytes saved target: 59801
+Dict_1toN: src 17 and target 33; bytes saved source: 0; bytes saved target: 41165
+Dict_1toN: src 32 and target 0; bytes saved source: 0; bytes saved target: 37513
+Dict_1toN: src 39 and target 13; bytes saved source: 0; bytes saved target: 25767
+Dict_1toN: src 40 and target 14; bytes saved source: 0; bytes saved target: 16801
+Dict_1toN: src 41 and target 37; bytes saved source: 0; bytes saved target: 15517
+Dict_1toN: src 23 and target 1; bytes saved source: 0; bytes saved target: 13541
+Dict_1toN: src 35 and target 19; bytes saved source: 0; bytes saved target: 12971
+DFOR: src 11 and target 28; bytes saved source: 0; bytes saved target: 10726
+DFOR: src 15 and target 10; bytes saved source: 0; bytes saved target: 9131
+Dict_1toN: src 5 and target 42; bytes saved source: 0; bytes saved target: 4381
+Compressing: MulheresMil_1; Row Group 0
+Dict_1toN: src 70 and target 2; bytes saved source: 0; bytes saved target: 93639
+Dict_1toN: src 22 and target 0; bytes saved source: 0; bytes saved target: 89237
+DFOR: src 24 and target 15; bytes saved source: 0; bytes saved target: 82324
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 76140
+Dict_1to1: src 16 and target 48; bytes saved source: 0; bytes saved target: 73838
+Dict_1to1: src 12 and target 46; bytes saved source: 0; bytes saved target: 73637
+Dict_1to1: src 13 and target 14; bytes saved source: 0; bytes saved target: 72550
+Dict_1toN: src 29 and target 45; bytes saved source: 0; bytes saved target: 41413
+Dict_1to1: src 67 and target 66; bytes saved source: 0; bytes saved target: 41194
+Dict_1toN: src 71 and target 34; bytes saved source: 0; bytes saved target: 37455
+Dict_1to1: src 8 and target 10; bytes saved source: 0; bytes saved target: 34628
+Dict_1to1: src 58 and target 30; bytes saved source: 0; bytes saved target: 33042
+Dict_1toN: src 28 and target 6; bytes saved source: 0; bytes saved target: 32991
+DFOR: src 5 and target 7; bytes saved source: 0; bytes saved target: 31936
+Dict_1to1: src 39 and target 3; bytes saved source: 0; bytes saved target: 25318
+Dict_1toN: src 56 and target 9; bytes saved source: 0; bytes saved target: 24467
+Dict_1toN: src 27 and target 69; bytes saved source: 0; bytes saved target: 20295
+Dict_1toN: src 53 and target 62; bytes saved source: 0; bytes saved target: 19589
+Dict_1toN: src 42 and target 33; bytes saved source: 0; bytes saved target: 17861
+Dict_1toN: src 61 and target 44; bytes saved source: 0; bytes saved target: 17309
+DFOR: src 32 and target 11; bytes saved source: 0; bytes saved target: 16727
+Dict_1to1: src 51 and target 59; bytes saved source: 0; bytes saved target: 16418
+Dict_1toN: src 54 and target 63; bytes saved source: 0; bytes saved target: 15138
+Dict_1toN: src 38 and target 57; bytes saved source: 0; bytes saved target: 13369
+Dict_1to1: src 60 and target 40; bytes saved source: 0; bytes saved target: 10202
+Dict_1to1: src 64 and target 23; bytes saved source: 0; bytes saved target: 10194
+Dict_1to1: src 65 and target 55; bytes saved source: 0; bytes saved target: 10102
+Dict_1to1: src 37 and target 17; bytes saved source: 0; bytes saved target: 10090
+Dict_1to1: src 41 and target 50; bytes saved source: 0; bytes saved target: 9614
+Equal: src 52 and target 20; bytes saved source: 0; bytes saved target: 8711
+Dict_1toN: src 26 and target 68; bytes saved source: 0; bytes saved target: 8193
+Dict_1toN: src 31 and target 19; bytes saved source: 0; bytes saved target: 5525
+Compressing: NYC_1; Row Group 0
+Dict_1to1: src 38 and target 18; bytes saved source: 0; bytes saved target: 262460
+Dict_1toN: src 3 and target 17; bytes saved source: 0; bytes saved target: 261856
+Equal: src 14 and target 19; bytes saved source: 0; bytes saved target: 261757
+Equal: src 32 and target 26; bytes saved source: 0; bytes saved target: 214807
+Dict_1to1: src 29 and target 34; bytes saved source: 0; bytes saved target: 72770
+Dict_1toN: src 8 and target 11; bytes saved source: 0; bytes saved target: 48601
+Dict_1toN: src 25 and target 35; bytes saved source: 0; bytes saved target: 47956
+Dict_1toN: src 7 and target 16; bytes saved source: 0; bytes saved target: 43361
+Dict_1to1: src 30 and target 6; bytes saved source: 0; bytes saved target: 32482
+Dict_1toN: src 2 and target 1; bytes saved source: 0; bytes saved target: 30597
+Dict_1toN: src 41 and target 23; bytes saved source: 0; bytes saved target: 30424
+DFOR: src 22 and target 44; bytes saved source: 0; bytes saved target: 29747
+DFOR: src 20 and target 46; bytes saved source: 0; bytes saved target: 22561
+Dict_1toN: src 12 and target 21; bytes saved source: 0; bytes saved target: 22013
+DFOR: src 9 and target 47; bytes saved source: 0; bytes saved target: 16849
+Dict_1toN: src 36 and target 31; bytes saved source: 0; bytes saved target: 14881
+Dict_1toN: src 0 and target 10; bytes saved source: 0; bytes saved target: 10815
+Dict_1to1: src 37 and target 33; bytes saved source: 0; bytes saved target: 7470
+Compressing: PanCreactomy1_1; Row Group 0
+Dict_1toN: src 13 and target 20; bytes saved source: 0; bytes saved target: 79751
+Dict_1toN: src 6 and target 5; bytes saved source: 0; bytes saved target: 79589
+Dict_1toN: src 14 and target 21; bytes saved source: 0; bytes saved target: 58753
+Dict_1toN: src 24 and target 11; bytes saved source: 0; bytes saved target: 56636
+Dict Sharing: src 7 and target 17; bytes saved source: -74744; bytes saved target: 126211
+Dict_1toN: src 19 and target 22; bytes saved source: 0; bytes saved target: 50947
+DFOR: src 4 and target 3; bytes saved source: 0; bytes saved target: 39626
+Dict_1toN: src 16 and target 15; bytes saved source: 0; bytes saved target: 30540
+Dict_1toN: src 12 and target 8; bytes saved source: 0; bytes saved target: 18803
+Dict Sharing: src 23 and target 10; bytes saved source: -54497; bytes saved target: 68465
+Dict_1toN: src 18 and target 9; bytes saved source: 0; bytes saved target: 5822
+Compressing: Physicians_1; Row Group 0
+Dict Sharing: src 14 and target 17; bytes saved source: -274950; bytes saved target: 360314
+Dict_1toN: src 7 and target 6; bytes saved source: 0; bytes saved target: 79301
+Dict Sharing: src 16 and target 20; bytes saved source: -203526; bytes saved target: 257572
+Dict_1toN: src 0 and target 21; bytes saved source: -2065; bytes saved target: 54240
+DFOR: src 5 and target 4; bytes saved source: 0; bytes saved target: 32690
+Dict Sharing: src 9 and target 13; bytes saved source: -42863; bytes saved target: 74070
+Dict_1to1: src 24 and target 12; bytes saved source: 0; bytes saved target: 17046
+Dict Sharing: src 22 and target 10; bytes saved source: -39336; bytes saved target: 48737
+Dict_1toN: src 11 and target 23; bytes saved source: 0; bytes saved target: 6266
+Cancelled Dict_Sharing: 22, 10
+Compressing: Provider_1; Row Group 0
+Dict Sharing: src 14 and target 17; bytes saved source: -273225; bytes saved target: 345875
+Dict_1toN: src 23 and target 21; bytes saved source: 0; bytes saved target: 53540
+Dict Sharing: src 16 and target 20; bytes saved source: -204494; bytes saved target: 251969
+DFOR: src 7 and target 6; bytes saved source: 0; bytes saved target: 45504
+DFOR: src 4 and target 8; bytes saved source: 0; bytes saved target: 39414
+Dict Sharing: src 12 and target 13; bytes saved source: -42437; bytes saved target: 72438
+Dict Sharing: src 0 and target 10; bytes saved source: -41389; bytes saved target: 63393
+DFOR: src 18 and target 5; bytes saved source: 0; bytes saved target: 18851
+Dict_1to1: src 24 and target 9; bytes saved source: 0; bytes saved target: 17198
+Compressing: RealEstate1_1; Row Group 0
+DFOR: src 22 and target 14; bytes saved source: 0; bytes saved target: 94292
+Dict_1toN: src 10 and target 12; bytes saved source: 0; bytes saved target: 91065
+Dict_1toN: src 17 and target 6; bytes saved source: 0; bytes saved target: 88806
+Dict_1toN: src 2 and target 3; bytes saved source: 0; bytes saved target: 53665
+Dict Sharing: src 1 and target 0; bytes saved source: -86331; bytes saved target: 138507
+Dict_1toN: src 25 and target 21; bytes saved source: 0; bytes saved target: 19695
+Dict_1toN: src 23 and target 11; bytes saved source: 0; bytes saved target: 16737
+Compressing: Redfin1_1; Row Group 0
+Dict Sharing: src 7 and target 28; bytes saved source: -73187; bytes saved target: 165557
+Dict_1toN: src 41 and target 34; bytes saved source: 0; bytes saved target: 62016
+Dict_1toN: src 4 and target 13; bytes saved source: 0; bytes saved target: 43015
+Dict Sharing: src 30 and target 36; bytes saved source: -100236; bytes saved target: 135601
+Dict Sharing: src 23 and target 17; bytes saved source: -44744; bytes saved target: 78449
+Dict_1toN: src 39 and target 40; bytes saved source: 0; bytes saved target: 32365
+Dict_1toN: src 0 and target 12; bytes saved source: -2065; bytes saved target: 31367
+DFOR: src 11 and target 8; bytes saved source: 0; bytes saved target: 27875
+DFOR: src 35 and target 26; bytes saved source: 0; bytes saved target: 26847
+DFOR: src 33 and target 5; bytes saved source: 0; bytes saved target: 26423
+Cancelled Dict_Sharing: 30, 36
+Cancelled DFOR: 11, 8
+Cancelled DFOR: 35, 26
+Cancelled DFOR: 33, 5
+Compressing: Rentabilidad_1; Row Group 0
+Equal: src 110 and target 121; bytes saved source: 0; bytes saved target: 523632
+Dict_1toN: src 107 and target 122; bytes saved source: 0; bytes saved target: 82331
+Dict_1toN: src 101 and target 127; bytes saved source: 0; bytes saved target: 81847
+Dict_1toN: src 134 and target 79; bytes saved source: 0; bytes saved target: 79022
+Dict_1toN: src 54 and target 57; bytes saved source: 0; bytes saved target: 72903
+Dict_1toN: src 44 and target 58; bytes saved source: 0; bytes saved target: 58123
+Dict_1toN: src 51 and target 43; bytes saved source: 0; bytes saved target: 48038
+Dict_1toN: src 49 and target 105; bytes saved source: 0; bytes saved target: 40765
+Dict_1toN: src 125 and target 64; bytes saved source: 0; bytes saved target: 38541
+Dict_1toN: src 18 and target 45; bytes saved source: 0; bytes saved target: 29029
+Dict_1to1: src 17 and target 19; bytes saved source: -13071; bytes saved target: 42014
+DFOR: src 103 and target 60; bytes saved source: 0; bytes saved target: 28887
+Dict_1toN: src 27 and target 25; bytes saved source: 0; bytes saved target: 28266
+Dict_1toN: src 138 and target 41; bytes saved source: 0; bytes saved target: 21625
+Dict_1toN: src 53 and target 80; bytes saved source: 0; bytes saved target: 20044
+Dict_1toN: src 47 and target 29; bytes saved source: 0; bytes saved target: 14752
+Dict_1toN: src 109 and target 124; bytes saved source: 0; bytes saved target: 12392
+Dict_1toN: src 34 and target 36; bytes saved source: 0; bytes saved target: 10878
+Dict_1to1: src 30 and target 62; bytes saved source: 0; bytes saved target: 10250
+Dict_1toN: src 115 and target 130; bytes saved source: 0; bytes saved target: 9319
+Dict_1toN: src 104 and target 69; bytes saved source: 0; bytes saved target: 7873
+DFOR: src 24 and target 95; bytes saved source: 0; bytes saved target: 5995
+Cancelled DFOR: 103, 60
+Compressing: Romance_1; Row Group 0
+DFOR: src 10 and target 3; bytes saved source: 0; bytes saved target: 25531
+DFOR: src 1 and target 0; bytes saved source: 0; bytes saved target: 3042
+Compressing: SalariesFrance_1; Row Group 0
+Equal: src 23 and target 8; bytes saved source: 0; bytes saved target: 140180
+Dict_1to1: src 43 and target 55; bytes saved source: 0; bytes saved target: 74458
+Dict_1to1: src 19 and target 54; bytes saved source: 0; bytes saved target: 72014
+Dict_1toN: src 48 and target 51; bytes saved source: 0; bytes saved target: 66523
+Dict_1toN: src 38 and target 37; bytes saved source: 0; bytes saved target: 59425
+Dict_1to1: src 1 and target 0; bytes saved source: 0; bytes saved target: 52762
+Dict_1to1: src 56 and target 2; bytes saved source: 0; bytes saved target: 51694
+Dict_1to1: src 4 and target 5; bytes saved source: 0; bytes saved target: 48954
+Dict_1toN: src 36 and target 49; bytes saved source: 0; bytes saved target: 47785
+Dict_1toN: src 45 and target 20; bytes saved source: 0; bytes saved target: 29468
+DFOR: src 7 and target 41; bytes saved source: 0; bytes saved target: 28039
+Dict_1toN: src 53 and target 6; bytes saved source: 0; bytes saved target: 24587
+DFOR: src 3 and target 42; bytes saved source: 0; bytes saved target: 14567
+DFOR: src 46 and target 52; bytes saved source: 0; bytes saved target: 10155
+Cancelled DFOR: 7, 41
+Cancelled DFOR: 3, 42
+Cancelled DFOR: 46, 52
+Compressing: TableroSistemaPenal_1; Row Group 0
+Dict_1to1: src 3 and target 12; bytes saved source: 0; bytes saved target: 70454
+Dict_1to1: src 11 and target 5; bytes saved source: 0; bytes saved target: 58565
+Dict_1to1: src 26 and target 17; bytes saved source: 0; bytes saved target: 50182
+Equal: src 14 and target 10; bytes saved source: 0; bytes saved target: 47084
+Equal: src 8 and target 9; bytes saved source: 0; bytes saved target: 34974
+Dict_1toN: src 6 and target 18; bytes saved source: 0; bytes saved target: 30088
+Dict_1toN: src 1 and target 19; bytes saved source: 0; bytes saved target: 23849
+Dict_1toN: src 24 and target 13; bytes saved source: 0; bytes saved target: 16605
+Dict_1toN: src 23 and target 2; bytes saved source: 0; bytes saved target: 7369
+Compressing: Taxpayer_1; Row Group 0
+Dict Sharing: src 14 and target 17; bytes saved source: -271704; bytes saved target: 354996
+Dict_1toN: src 9 and target 21; bytes saved source: 0; bytes saved target: 53151
+Dict Sharing: src 12 and target 20; bytes saved source: -203445; bytes saved target: 254802
+DFOR: src 7 and target 6; bytes saved source: 0; bytes saved target: 43065
+DFOR: src 4 and target 8; bytes saved source: 0; bytes saved target: 39326
+Dict Sharing: src 23 and target 13; bytes saved source: -42696; bytes saved target: 75452
+Dict Sharing: src 0 and target 10; bytes saved source: -41389; bytes saved target: 63913
+DFOR: src 16 and target 5; bytes saved source: 0; bytes saved target: 18691
+Compressing: Telco_1; Row Group 0
+Equal: src 169 and target 166; bytes saved source: 0; bytes saved target: 265718
+Dict Sharing: src 17 and target 31; bytes saved source: -7325; bytes saved target: 157010
+Dict Sharing: src 141 and target 56; bytes saved source: -1934; bytes saved target: 148825
+Dict Sharing: src 5 and target 90; bytes saved source: -6292; bytes saved target: 150313
+Dict Sharing: src 59 and target 57; bytes saved source: -5751; bytes saved target: 149680
+Dict Sharing: src 20 and target 93; bytes saved source: -5039; bytes saved target: 148441
+Dict Sharing: src 76 and target 148; bytes saved source: -2872; bytes saved target: 142477
+Dict Sharing: src 75 and target 161; bytes saved source: -11669; bytes saved target: 145737
+Dict Sharing: src 18 and target 91; bytes saved source: -1807; bytes saved target: 133285
+Dict Sharing: src 58 and target 142; bytes saved source: -3514; bytes saved target: 133965
+Dict Sharing: src 77 and target 149; bytes saved source: -5416; bytes saved target: 132973
+Dict Sharing: src 94 and target 133; bytes saved source: -10292; bytes saved target: 130253
+Dict Sharing: src 19 and target 33; bytes saved source: -11561; bytes saved target: 129337
+Dict Sharing: src 163 and target 162; bytes saved source: -26461; bytes saved target: 141641
+Dict Sharing: src 96 and target 23; bytes saved source: -22102; bytes saved target: 133893
+Dict Sharing: src 95 and target 22; bytes saved source: -19483; bytes saved target: 129353
+Dict Sharing: src 98 and target 135; bytes saved source: -19483; bytes saved target: 129353
+Dict Sharing: src 78 and target 25; bytes saved source: -10558; bytes saved target: 117449
+Dict Sharing: src 97 and target 132; bytes saved source: -26448; bytes saved target: 129877
+Dict Sharing: src 144 and target 143; bytes saved source: -5342; bytes saved target: 99869
+Dict Sharing: src 164 and target 154; bytes saved source: -40885; bytes saved target: 129149
+Dict Sharing: src 36 and target 40; bytes saved source: -10371; bytes saved target: 95529
+Dict Sharing: src 92 and target 32; bytes saved source: -25159; bytes saved target: 104470
+Dict Sharing: src 156 and target 160; bytes saved source: -10744; bytes saved target: 86545
+Dict_1to1: src 83 and target 80; bytes saved source: 0; bytes saved target: 75384
+Dict Sharing: src 81 and target 79; bytes saved source: -30067; bytes saved target: 98453
+Dict Sharing: src 38 and target 37; bytes saved source: -9807; bytes saved target: 72409
+Dict Sharing: src 120 and target 24; bytes saved source: -46393; bytes saved target: 107561
+Dict Sharing: src 134 and target 35; bytes saved source: -41034; bytes saved target: 100906
+Dict_1to1: src 130 and target 127; bytes saved source: 0; bytes saved target: 58220
+Dict Sharing: src 159 and target 158; bytes saved source: -11200; bytes saved target: 67341
+Dict_1to1: src 88 and target 85; bytes saved source: 0; bytes saved target: 54912
+Dict_1to1: src 15 and target 12; bytes saved source: 0; bytes saved target: 53312
+Dict_1to1: src 27 and target 30; bytes saved source: 0; bytes saved target: 51015
+Dict Sharing: src 122 and target 124; bytes saved source: -20068; bytes saved target: 71005
+Dict Sharing: src 123 and target 121; bytes saved source: -6376; bytes saved target: 56997
+Dict_1to1: src 73 and target 70; bytes saved source: 0; bytes saved target: 50388
+Dict Sharing: src 84 and target 157; bytes saved source: -14176; bytes saved target: 63549
+Dict Sharing: src 62 and target 39; bytes saved source: -10008; bytes saved target: 58805
+Dict Sharing: src 105 and target 109; bytes saved source: -8001; bytes saved target: 56229
+Dict Sharing: src 6 and target 26; bytes saved source: -8168; bytes saved target: 53781
+Dict Sharing: src 53 and target 51; bytes saved source: -2480; bytes saved target: 47789
+Dict Sharing: src 29 and target 28; bytes saved source: -1391; bytes saved target: 41705
+Dict Sharing: src 65 and target 61; bytes saved source: -1119; bytes saved target: 38277
+Dict_1toN: src 68 and target 82; bytes saved source: -2065; bytes saved target: 37895
+Dict Sharing: src 87 and target 64; bytes saved source: -1528; bytes saved target: 36433
+Dict Sharing: src 86 and target 63; bytes saved source: -1591; bytes saved target: 36313
+Dict Sharing: src 44 and target 46; bytes saved source: -16216; bytes saved target: 50642
+Dict Sharing: src 69 and target 126; bytes saved source: -7504; bytes saved target: 40340
+Dict Sharing: src 108 and target 107; bytes saved source: -3592; bytes saved target: 34981
+Dict Sharing: src 111 and target 171; bytes saved source: -4143; bytes saved target: 34533
+Dict Sharing: src 113 and target 175; bytes saved source: -5440; bytes saved target: 34853
+Dict Sharing: src 9 and target 10; bytes saved source: -3312; bytes saved target: 32057
+Dict Sharing: src 71 and target 128; bytes saved source: -3416; bytes saved target: 31697
+Dict_1toN: src 45 and target 66; bytes saved source: 0; bytes saved target: 27091
+Dict Sharing: src 8 and target 11; bytes saved source: -6848; bytes saved target: 33649
+Dict Sharing: src 112 and target 172; bytes saved source: -2647; bytes saved target: 29273
+Dict Sharing: src 41 and target 7; bytes saved source: -1328; bytes saved target: 27149
+Dict Sharing: src 125 and target 173; bytes saved source: -1896; bytes saved target: 27585
+Dict Sharing: src 174 and target 129; bytes saved source: -4120; bytes saved target: 29609
+Dict_1toN: src 114 and target 99; bytes saved source: 0; bytes saved target: 24422
+Dict Sharing: src 42 and target 13; bytes saved source: -3776; bytes saved target: 27185
+Dict_1toN: src 110 and target 34; bytes saved source: 0; bytes saved target: 22404
+Dict_1toN: src 43 and target 48; bytes saved source: 0; bytes saved target: 21490
+Dict Sharing: src 118 and target 72; bytes saved source: -2680; bytes saved target: 23873
+Dict Sharing: src 14 and target 106; bytes saved source: -18616; bytes saved target: 38337
+Dict Sharing: src 117 and target 115; bytes saved source: -599; bytes saved target: 18865
+Dict Sharing: src 116 and target 52; bytes saved source: -1192; bytes saved target: 17628
+Equal: src 49 and target 47; bytes saved source: 0; bytes saved target: 10377
+Dict Sharing: src 54 and target 55; bytes saved source: -7891; bytes saved target: 17988
+Cancelled Dict_Sharing: 92, 32
+Cancelled Dict_Sharing: 134, 35
+Cancelled Dict_Sharing: 44, 46
+Cancelled Dict_Sharing: 116, 52
+Cancelled Dict_Sharing: 54, 55
+Cancelled Dict_1toN: 110, 34
+Cancelled Dict_1toN: 43, 48
+Compressing: TrainsUK1_2; Row Group 0
+Dict_1toN: src 16 and target 17; bytes saved source: 0; bytes saved target: 89367
+Dict_1toN: src 5 and target 23; bytes saved source: 0; bytes saved target: 81820
+Dict_1to1: src 26 and target 11; bytes saved source: 0; bytes saved target: 71094
+Equal: src 3 and target 20; bytes saved source: 0; bytes saved target: 58189
+Dict Sharing: src 14 and target 19; bytes saved source: -1979; bytes saved target: 58717
+Dict_1toN: src 1 and target 6; bytes saved source: 0; bytes saved target: 45638
+Dict_1to1: src 7 and target 8; bytes saved source: 0; bytes saved target: 38602
+Dict_1toN: src 10 and target 18; bytes saved source: 0; bytes saved target: 33395
+Dict_1toN: src 13 and target 12; bytes saved source: 0; bytes saved target: 17996
+DFOR: src 9 and target 22; bytes saved source: 0; bytes saved target: 11631
+DFOR: src 25 and target 15; bytes saved source: 0; bytes saved target: 10155
+DFOR: src 21 and target 4; bytes saved source: 0; bytes saved target: 3083
+Cancelled DFOR: 21, 4
+Compressing: TrainsUK2_1; Row Group 0
+Equal: src 8 and target 0; bytes saved source: 0; bytes saved target: 100723
+Equal: src 26 and target 23; bytes saved source: 0; bytes saved target: 93291
+DFOR: src 6 and target 7; bytes saved source: 0; bytes saved target: 81820
+DFOR: src 4 and target 5; bytes saved source: 0; bytes saved target: 80988
+Dict_1toN: src 10 and target 11; bytes saved source: 0; bytes saved target: 59543
+Dict_1toN: src 3 and target 25; bytes saved source: 0; bytes saved target: 53093
+DFOR: src 18 and target 17; bytes saved source: 0; bytes saved target: 43644
+Dict_1toN: src 20 and target 14; bytes saved source: -1513; bytes saved target: 33131
+Dict_1toN: src 1 and target 15; bytes saved source: 0; bytes saved target: 28007
+Dict_1to1: src 9 and target 21; bytes saved source: 0; bytes saved target: 24806
+Dict_1toN: src 2 and target 27; bytes saved source: -2065; bytes saved target: 23389
+Dict_1toN: src 19 and target 28; bytes saved source: -1513; bytes saved target: 14159
+Compressing: Uberlandia_1; Row Group 0
+Dict_1toN: src 70 and target 2; bytes saved source: 0; bytes saved target: 95348
+Dict_1toN: src 22 and target 0; bytes saved source: 0; bytes saved target: 89129
+DFOR: src 24 and target 15; bytes saved source: 0; bytes saved target: 81980
+DFOR: src 46 and target 12; bytes saved source: 0; bytes saved target: 75404
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 75042
+Dict_1to1: src 16 and target 48; bytes saved source: 0; bytes saved target: 73978
+Equal: src 13 and target 14; bytes saved source: 0; bytes saved target: 73964
+Dict_1toN: src 29 and target 45; bytes saved source: 0; bytes saved target: 41809
+Dict_1to1: src 67 and target 66; bytes saved source: 0; bytes saved target: 41170
+Dict_1toN: src 71 and target 34; bytes saved source: 0; bytes saved target: 37581
+Dict_1to1: src 8 and target 10; bytes saved source: 0; bytes saved target: 34620
+Equal: src 9 and target 5; bytes saved source: 0; bytes saved target: 33588
+Dict_1to1: src 58 and target 30; bytes saved source: 0; bytes saved target: 33506
+Dict_1toN: src 28 and target 6; bytes saved source: 0; bytes saved target: 33267
+Dict_1to1: src 39 and target 3; bytes saved source: 0; bytes saved target: 25306
+Dict_1toN: src 56 and target 7; bytes saved source: 0; bytes saved target: 24843
+Dict_1toN: src 54 and target 69; bytes saved source: 0; bytes saved target: 20911
+Dict_1toN: src 17 and target 62; bytes saved source: 0; bytes saved target: 20649
+Dict_1toN: src 42 and target 33; bytes saved source: 0; bytes saved target: 17805
+Dict_1to1: src 51 and target 59; bytes saved source: 0; bytes saved target: 17226
+Dict_1toN: src 61 and target 44; bytes saved source: 0; bytes saved target: 17089
+DFOR: src 32 and target 11; bytes saved source: 0; bytes saved target: 16907
+Dict_1toN: src 53 and target 63; bytes saved source: 0; bytes saved target: 16702
+Dict_1toN: src 40 and target 57; bytes saved source: 0; bytes saved target: 14771
+Dict_1to1: src 37 and target 23; bytes saved source: 0; bytes saved target: 10194
+Dict_1to1: src 60 and target 38; bytes saved source: 0; bytes saved target: 10194
+Dict_1to1: src 64 and target 20; bytes saved source: 0; bytes saved target: 10170
+Dict_1to1: src 65 and target 55; bytes saved source: 0; bytes saved target: 10098
+Dict_1to1: src 41 and target 50; bytes saved source: 0; bytes saved target: 9734
+Dict_1toN: src 31 and target 68; bytes saved source: 0; bytes saved target: 8201
+Dict_1toN: src 27 and target 19; bytes saved source: 0; bytes saved target: 6269
+Compressing: USCensus_1; Row Group 0
+Equal: src 315 and target 314; bytes saved source: 0; bytes saved target: 172171
+Equal: src 277 and target 276; bytes saved source: 0; bytes saved target: 84440
+Dict_1toN: src 9 and target 8; bytes saved source: 0; bytes saved target: 56831
+Equal: src 331 and target 329; bytes saved source: 0; bytes saved target: 41099
+DFOR: src 337 and target 297; bytes saved source: 0; bytes saved target: 38402
+Dict Sharing: src 266 and target 267; bytes saved source: -4888; bytes saved target: 41505
+Dict Sharing: src 271 and target 222; bytes saved source: -256; bytes saved target: 32045
+Dict_1toN: src 105 and target 7; bytes saved source: -1217; bytes saved target: 29539
+Dict_1toN: src 283 and target 284; bytes saved source: 0; bytes saved target: 24917
+DFOR: src 243 and target 219; bytes saved source: 0; bytes saved target: 24872
+Dict_1toN: src 296 and target 223; bytes saved source: 0; bytes saved target: 23078
+Dict_1toN: src 220 and target 240; bytes saved source: -917; bytes saved target: 22762
+Dict_1toN: src 344 and target 269; bytes saved source: 0; bytes saved target: 20590
+Numerical: src 340 and target 349; bytes saved source: 0; bytes saved target: 19960
+Dict_1toN: src 129 and target 37; bytes saved source: -781; bytes saved target: 19912
+Dict_1toN: src 244 and target 253; bytes saved source: 0; bytes saved target: 18912
+Dict_1toN: src 293 and target 285; bytes saved source: -1137; bytes saved target: 19690
+Dict Sharing: src 343 and target 328; bytes saved source: -216; bytes saved target: 17969
+DFOR: src 323 and target 367; bytes saved source: 0; bytes saved target: 16643
+DFOR: src 324 and target 422; bytes saved source: 0; bytes saved target: 15847
+DFOR: src 290 and target 356; bytes saved source: 0; bytes saved target: 15795
+DFOR: src 316 and target 377; bytes saved source: 0; bytes saved target: 15759
+DFOR: src 345 and target 433; bytes saved source: 0; bytes saved target: 15626
+DFOR: src 273 and target 357; bytes saved source: 0; bytes saved target: 15607
+DFOR: src 275 and target 358; bytes saved source: 0; bytes saved target: 15471
+DFOR: src 279 and target 378; bytes saved source: 0; bytes saved target: 15451
+DFOR: src 517 and target 426; bytes saved source: 0; bytes saved target: 15266
+Dict_1toN: src 193 and target 225; bytes saved source: 0; bytes saved target: 15103
+DFOR: src 353 and target 398; bytes saved source: 0; bytes saved target: 14826
+DFOR: src 288 and target 364; bytes saved source: 0; bytes saved target: 14806
+DFOR: src 351 and target 411; bytes saved source: 0; bytes saved target: 14726
+DFOR: src 310 and target 397; bytes saved source: 0; bytes saved target: 14674
+DFOR: src 300 and target 400; bytes saved source: 0; bytes saved target: 14430
+DFOR: src 348 and target 410; bytes saved source: 0; bytes saved target: 14354
+DFOR: src 352 and target 420; bytes saved source: 0; bytes saved target: 14254
+DFOR: src 307 and target 406; bytes saved source: 0; bytes saved target: 14230
+DFOR: src 298 and target 390; bytes saved source: 0; bytes saved target: 14166
+DFOR: src 354 and target 399; bytes saved source: 0; bytes saved target: 14143
+DFOR: src 281 and target 375; bytes saved source: 0; bytes saved target: 14102
+DFOR: src 347 and target 394; bytes saved source: 0; bytes saved target: 14062
+DFOR: src 341 and target 434; bytes saved source: 0; bytes saved target: 14030
+DFOR: src 332 and target 396; bytes saved source: 0; bytes saved target: 14026
+DFOR: src 412 and target 368; bytes saved source: 0; bytes saved target: 13986
+DFOR: src 335 and target 384; bytes saved source: 0; bytes saved target: 13950
+DFOR: src 282 and target 369; bytes saved source: 0; bytes saved target: 13949
+DFOR: src 322 and target 388; bytes saved source: 0; bytes saved target: 13922
+DFOR: src 325 and target 413; bytes saved source: 0; bytes saved target: 13918
+DFOR: src 350 and target 393; bytes saved source: 0; bytes saved target: 13894
+DFOR: src 333 and target 386; bytes saved source: 0; bytes saved target: 13858
+DFOR: src 280 and target 380; bytes saved source: 0; bytes saved target: 13845
+DFOR: src 274 and target 371; bytes saved source: 0; bytes saved target: 13749
+DFOR: src 309 and target 391; bytes saved source: 0; bytes saved target: 13734
+DFOR: src 289 and target 376; bytes saved source: 0; bytes saved target: 13658
+DFOR: src 291 and target 363; bytes saved source: 0; bytes saved target: 13638
+DFOR: src 287 and target 381; bytes saved source: 0; bytes saved target: 13530
+DFOR: src 499 and target 419; bytes saved source: 0; bytes saved target: 13442
+DFOR: src 294 and target 389; bytes saved source: 0; bytes saved target: 13428
+DFOR: src 265 and target 362; bytes saved source: 0; bytes saved target: 13406
+DFOR: src 334 and target 429; bytes saved source: 0; bytes saved target: 13372
+DFOR: src 292 and target 392; bytes saved source: 0; bytes saved target: 13366
+DFOR: src 515 and target 435; bytes saved source: 0; bytes saved target: 13274
+DFOR: src 327 and target 415; bytes saved source: 0; bytes saved target: 13256
+DFOR: src 286 and target 385; bytes saved source: 0; bytes saved target: 13250
+DFOR: src 453 and target 373; bytes saved source: 0; bytes saved target: 13226
+DFOR: src 330 and target 430; bytes saved source: 0; bytes saved target: 13200
+DFOR: src 25 and target 31; bytes saved source: 0; bytes saved target: 13191
+DFOR: src 260 and target 360; bytes saved source: 0; bytes saved target: 13168
+DFOR: src 459 and target 379; bytes saved source: 0; bytes saved target: 13134
+DFOR: src 317 and target 416; bytes saved source: 0; bytes saved target: 13116
+DFOR: src 338 and target 431; bytes saved source: 0; bytes saved target: 13096
+DFOR: src 318 and target 395; bytes saved source: 0; bytes saved target: 13087
+Dict Sharing: src 190 and target 212; bytes saved source: -4; bytes saved target: 13076
+DFOR: src 498 and target 418; bytes saved source: 0; bytes saved target: 13051
+DFOR: src 501 and target 421; bytes saved source: 0; bytes saved target: 13042
+DFOR: src 482 and target 402; bytes saved source: 0; bytes saved target: 13034
+DFOR: src 512 and target 432; bytes saved source: 0; bytes saved target: 13023
+DFOR: src 339 and target 407; bytes saved source: 0; bytes saved target: 13008
+DFOR: src 489 and target 409; bytes saved source: 0; bytes saved target: 13002
+DFOR: src 303 and target 401; bytes saved source: 0; bytes saved target: 12984
+DFOR: src 304 and target 382; bytes saved source: 0; bytes saved target: 12980
+DFOR: src 504 and target 424; bytes saved source: 0; bytes saved target: 12962
+DFOR: src 497 and target 417; bytes saved source: 0; bytes saved target: 12961
+DFOR: src 494 and target 414; bytes saved source: 0; bytes saved target: 12919
+DFOR: src 488 and target 408; bytes saved source: 0; bytes saved target: 12918
+DFOR: src 361 and target 405; bytes saved source: 0; bytes saved target: 12898
+Dict_1toN: src 252 and target 254; bytes saved source: -1505; bytes saved target: 14394
+DFOR: src 452 and target 372; bytes saved source: 0; bytes saved target: 12886
+DFOR: src 366 and target 278; bytes saved source: 0; bytes saved target: 12874
+DFOR: src 306 and target 374; bytes saved source: 0; bytes saved target: 12840
+DFOR: src 259 and target 359; bytes saved source: 0; bytes saved target: 12834
+DFOR: src 516 and target 423; bytes saved source: 0; bytes saved target: 12830
+DFOR: src 484 and target 404; bytes saved source: 0; bytes saved target: 12830
+DFOR: src 463 and target 383; bytes saved source: 0; bytes saved target: 12762
+DFOR: src 507 and target 427; bytes saved source: 0; bytes saved target: 12746
+DFOR: src 161 and target 197; bytes saved source: 0; bytes saved target: 12736
+DFOR: src 505 and target 425; bytes saved source: 0; bytes saved target: 12734
+DFOR: src 467 and target 387; bytes saved source: 0; bytes saved target: 12706
+DFOR: src 508 and target 428; bytes saved source: 0; bytes saved target: 12691
+DFOR: src 346 and target 370; bytes saved source: 0; bytes saved target: 12470
+DFOR: src 483 and target 403; bytes saved source: 0; bytes saved target: 12378
+Dict_1toN: src 27 and target 20; bytes saved source: -1217; bytes saved target: 13354
+DFOR: src 445 and target 365; bytes saved source: 0; bytes saved target: 11998
+Dict_1toN: src 192 and target 211; bytes saved source: 0; bytes saved target: 11268
+Dict_1toN: src 249 and target 308; bytes saved source: 0; bytes saved target: 10220
+Dict_1toN: src 191 and target 224; bytes saved source: 0; bytes saved target: 9662
+Dict_1toN: src 188 and target 256; bytes saved source: 0; bytes saved target: 9308
+Dict_1toN: src 19 and target 28; bytes saved source: -1341; bytes saved target: 10158
+DFOR: src 132 and target 217; bytes saved source: 0; bytes saved target: 8634
+Dict_1toN: src 159 and target 255; bytes saved source: -577; bytes saved target: 9166
+DFOR: src 26 and target 16; bytes saved source: 0; bytes saved target: 7936
+DFOR: src 34 and target 35; bytes saved source: 0; bytes saved target: 6622
+DFOR: src 178 and target 270; bytes saved source: 0; bytes saved target: 6266
+Equal: src 189 and target 95; bytes saved source: 0; bytes saved target: 5699
+Dict_1toN: src 246 and target 326; bytes saved source: -1521; bytes saved target: 7070
+Dict_1toN: src 52 and target 125; bytes saved source: -1001; bytes saved target: 6134
+Dict Sharing: src 203 and target 261; bytes saved source: -1885; bytes saved target: 5948
+Dict_1toN: src 257 and target 355; bytes saved source: -2065; bytes saved target: 6085
+Equal: src 131 and target 170; bytes saved source: 0; bytes saved target: 3859
+Numerical: src 145 and target 207; bytes saved source: 0; bytes saved target: 3816
+Dict_1toN: src 124 and target 204; bytes saved source: -945; bytes saved target: 4502
+Dict_1toN: src 236 and target 299; bytes saved source: -1497; bytes saved target: 4914
+Dict_1toN: src 158 and target 209; bytes saved source: -681; bytes saved target: 4042
+DFOR: src 5 and target 22; bytes saved source: 0; bytes saved target: 3138
+Dict_1toN: src 109 and target 206; bytes saved source: -1232; bytes saved target: 4338
+Dict_1toN: src 134 and target 195; bytes saved source: -677; bytes saved target: 3608
+Numerical: src 176 and target 272; bytes saved source: 0; bytes saved target: 2904
+Cancelled Numerical: 340, 349
+Cancelled Numerical: 145, 207
+Cancelled Numerical: 176, 272
+Cancelled Dict_Sharing: 203, 261
+Cancelled DFOR: 323, 367
+Cancelled DFOR: 324, 422
+Cancelled DFOR: 290, 356
+Cancelled DFOR: 316, 377
+Cancelled DFOR: 345, 433
+Cancelled DFOR: 273, 357
+Cancelled DFOR: 275, 358
+Cancelled DFOR: 279, 378
+Cancelled DFOR: 517, 426
+Cancelled DFOR: 353, 398
+Cancelled DFOR: 288, 364
+Cancelled DFOR: 351, 411
+Cancelled DFOR: 310, 397
+Cancelled DFOR: 300, 400
+Cancelled DFOR: 348, 410
+Cancelled DFOR: 352, 420
+Cancelled DFOR: 307, 406
+Cancelled DFOR: 298, 390
+Cancelled DFOR: 354, 399
+Cancelled DFOR: 281, 375
+Cancelled DFOR: 347, 394
+Cancelled DFOR: 341, 434
+Cancelled DFOR: 332, 396
+Cancelled DFOR: 412, 368
+Cancelled DFOR: 335, 384
+Cancelled DFOR: 282, 369
+Cancelled DFOR: 322, 388
+Cancelled DFOR: 325, 413
+Cancelled DFOR: 350, 393
+Cancelled DFOR: 333, 386
+Cancelled DFOR: 280, 380
+Cancelled DFOR: 274, 371
+Cancelled DFOR: 309, 391
+Cancelled DFOR: 289, 376
+Cancelled DFOR: 291, 363
+Cancelled DFOR: 287, 381
+Cancelled DFOR: 499, 419
+Cancelled DFOR: 294, 389
+Cancelled DFOR: 265, 362
+Cancelled DFOR: 334, 429
+Cancelled DFOR: 292, 392
+Cancelled DFOR: 515, 435
+Cancelled DFOR: 327, 415
+Cancelled DFOR: 286, 385
+Cancelled DFOR: 453, 373
+Cancelled DFOR: 330, 430
+Cancelled DFOR: 260, 360
+Cancelled DFOR: 459, 379
+Cancelled DFOR: 317, 416
+Cancelled DFOR: 338, 431
+Cancelled DFOR: 318, 395
+Cancelled DFOR: 498, 418
+Cancelled DFOR: 501, 421
+Cancelled DFOR: 482, 402
+Cancelled DFOR: 512, 432
+Cancelled DFOR: 339, 407
+Cancelled DFOR: 489, 409
+Cancelled DFOR: 303, 401
+Cancelled DFOR: 304, 382
+Cancelled DFOR: 504, 424
+Cancelled DFOR: 497, 417
+Cancelled DFOR: 494, 414
+Cancelled DFOR: 488, 408
+Cancelled DFOR: 361, 405
+Cancelled DFOR: 452, 372
+Cancelled DFOR: 306, 374
+Cancelled DFOR: 259, 359
+Cancelled DFOR: 516, 423
+Cancelled DFOR: 484, 404
+Cancelled DFOR: 463, 383
+Cancelled DFOR: 507, 427
+Cancelled DFOR: 505, 425
+Cancelled DFOR: 467, 387
+Cancelled DFOR: 508, 428
+Cancelled DFOR: 346, 370
+Cancelled DFOR: 483, 403
+Cancelled DFOR: 445, 365
+Cancelled Dict_1toN: 192, 211
+Cancelled DFOR: 178, 270
+Cancelled Dict_1toN: 246, 326
+Cancelled Dict_1toN: 52, 125
+Cancelled Dict_1toN: 257, 355
+Cancelled Dict_1toN: 124, 204
+Cancelled Dict_1toN: 236, 299
+Cancelled Dict_1toN: 109, 206
+Compressing: Wins_1; Row Group 0
+Equal: src 80 and target 178; bytes saved source: 0; bytes saved target: 200820
+Dict_1to1: src 192 and target 190; bytes saved source: 0; bytes saved target: 74432
+Dict_1toN: src 189 and target 193; bytes saved source: 0; bytes saved target: 56623
+Dict Sharing: src 242 and target 240; bytes saved source: -294672; bytes saved target: 351225
+Dict Sharing: src 250 and target 253; bytes saved source: -1552; bytes saved target: 56385
+DFOR: src 81 and target 39; bytes saved source: 0; bytes saved target: 52467
+Dict Sharing: src 231 and target 244; bytes saved source: -95062; bytes saved target: 145471
+Dict Sharing: src 243 and target 239; bytes saved source: -78671; bytes saved target: 127863
+DFOR: src 170 and target 181; bytes saved source: 0; bytes saved target: 47681
+DFOR: src 42 and target 40; bytes saved source: 0; bytes saved target: 46483
+Dict_1to1: src 0 and target 61; bytes saved source: 0; bytes saved target: 45954
+Equal: src 83 and target 136; bytes saved source: 0; bytes saved target: 45435
+DFOR: src 166 and target 164; bytes saved source: 0; bytes saved target: 45090
+Dict_1toN: src 148 and target 175; bytes saved source: -1053; bytes saved target: 45935
+Dict Sharing: src 248 and target 247; bytes saved source: -91; bytes saved target: 43651
+Dict_1toN: src 7 and target 82; bytes saved source: -2305; bytes saved target: 41599
+Dict_1toN: src 153 and target 246; bytes saved source: -13; bytes saved target: 34442
+Dict_1toN: src 177 and target 236; bytes saved source: -2216; bytes saved target: 36375
+Equal: src 215 and target 224; bytes saved source: 0; bytes saved target: 32055
+DFOR: src 88 and target 89; bytes saved source: 0; bytes saved target: 30483
+Dict Sharing: src 10 and target 101; bytes saved source: -4680; bytes saved target: 34649
+Dict_1toN: src 29 and target 28; bytes saved source: 0; bytes saved target: 29395
+Dict_1to1: src 95 and target 100; bytes saved source: -3021; bytes saved target: 32151
+Dict Sharing: src 120 and target 187; bytes saved source: -456; bytes saved target: 29405
+Dict_1toN: src 113 and target 183; bytes saved source: 0; bytes saved target: 28075
+DFOR: src 65 and target 131; bytes saved source: 0; bytes saved target: 27780
+Dict_1toN: src 26 and target 24; bytes saved source: -25; bytes saved target: 27098
+Dict_1toN: src 191 and target 252; bytes saved source: -6021; bytes saved target: 30743
+DFOR: src 149 and target 159; bytes saved source: 0; bytes saved target: 24067
+Dict_1toN: src 73 and target 92; bytes saved source: -2065; bytes saved target: 22927
+DFOR: src 230 and target 184; bytes saved source: 0; bytes saved target: 20851
+Dict_1toN: src 151 and target 245; bytes saved source: -1049; bytes saved target: 21718
+DFOR: src 84 and target 79; bytes saved source: 0; bytes saved target: 19926
+DFOR: src 235 and target 162; bytes saved source: 0; bytes saved target: 19631
+Dict Sharing: src 3 and target 4; bytes saved source: -271; bytes saved target: 19809
+DFOR: src 179 and target 228; bytes saved source: 0; bytes saved target: 18911
+DFOR: src 233 and target 182; bytes saved source: 0; bytes saved target: 18656
+DFOR: src 36 and target 62; bytes saved source: 0; bytes saved target: 18643
+DFOR: src 167 and target 132; bytes saved source: 0; bytes saved target: 18483
+DFOR: src 34 and target 32; bytes saved source: 0; bytes saved target: 17979
+DFOR: src 91 and target 6; bytes saved source: 0; bytes saved target: 17639
+Dict_1toN: src 251 and target 234; bytes saved source: -10231; bytes saved target: 27861
+DFOR: src 110 and target 13; bytes saved source: 0; bytes saved target: 17040
+Dict Sharing: src 140 and target 49; bytes saved source: -53; bytes saved target: 16564
+Dict Sharing: src 37 and target 25; bytes saved source: -68; bytes saved target: 16165
+Dict_1toN: src 126 and target 180; bytes saved source: -125; bytes saved target: 16086
+Dict Sharing: src 144 and target 96; bytes saved source: -801; bytes saved target: 16604
+DFOR: src 114 and target 118; bytes saved source: 0; bytes saved target: 15762
+DFOR: src 141 and target 171; bytes saved source: 0; bytes saved target: 15678
+DFOR: src 55 and target 70; bytes saved source: 0; bytes saved target: 15567
+DFOR: src 143 and target 161; bytes saved source: 0; bytes saved target: 15487
+Dict_1toN: src 157 and target 109; bytes saved source: -25; bytes saved target: 15010
+Dict Sharing: src 48 and target 112; bytes saved source: -340; bytes saved target: 15008
+Dict Sharing: src 128 and target 63; bytes saved source: -252; bytes saved target: 14648
+Dict_1toN: src 203 and target 208; bytes saved source: -2312; bytes saved target: 16562
+Dict_1toN: src 21 and target 44; bytes saved source: -565; bytes saved target: 14770
+Dict Sharing: src 156 and target 169; bytes saved source: -33; bytes saved target: 13856
+Dict_1toN: src 176 and target 238; bytes saved source: -1509; bytes saved target: 15205
+DFOR: src 139 and target 160; bytes saved source: 0; bytes saved target: 13295
+DFOR: src 9 and target 59; bytes saved source: 0; bytes saved target: 13240
+Dict Sharing: src 150 and target 122; bytes saved source: -57; bytes saved target: 13004
+DFOR: src 85 and target 123; bytes saved source: 0; bytes saved target: 12750
+DFOR: src 27 and target 90; bytes saved source: 0; bytes saved target: 12647
+DFOR: src 173 and target 130; bytes saved source: 0; bytes saved target: 12449
+DFOR: src 2 and target 8; bytes saved source: 0; bytes saved target: 12419
+Dict_1toN: src 14 and target 104; bytes saved source: -13; bytes saved target: 12214
+DFOR: src 145 and target 172; bytes saved source: 0; bytes saved target: 12122
+Dict_1toN: src 1 and target 64; bytes saved source: -2065; bytes saved target: 13929
+Dict_1toN: src 5 and target 33; bytes saved source: -345; bytes saved target: 12191
+Dict_1toN: src 124 and target 185; bytes saved source: -601; bytes saved target: 12350
+Dict_1toN: src 43 and target 119; bytes saved source: -217; bytes saved target: 11274
+Dict Sharing: src 45 and target 20; bytes saved source: -384; bytes saved target: 11432
+DFOR: src 154 and target 188; bytes saved source: 0; bytes saved target: 11004
+DFOR: src 54 and target 121; bytes saved source: 0; bytes saved target: 10885
+DFOR: src 35 and target 94; bytes saved source: 0; bytes saved target: 10639
+DFOR: src 38 and target 68; bytes saved source: 0; bytes saved target: 10635
+Dict Sharing: src 107 and target 142; bytes saved source: -1745; bytes saved target: 11396
+DFOR: src 241 and target 249; bytes saved source: 0; bytes saved target: 9482
+DFOR: src 205 and target 226; bytes saved source: 0; bytes saved target: 9210
+DFOR: src 147 and target 194; bytes saved source: 0; bytes saved target: 9047
+Dict_1toN: src 196 and target 222; bytes saved source: -2345; bytes saved target: 11242
+DFOR: src 207 and target 212; bytes saved source: 0; bytes saved target: 8810
+DFOR: src 195 and target 218; bytes saved source: 0; bytes saved target: 8790
+DFOR: src 69 and target 134; bytes saved source: 0; bytes saved target: 8510
+DFOR: src 127 and target 221; bytes saved source: 0; bytes saved target: 8487
+DFOR: src 225 and target 223; bytes saved source: 0; bytes saved target: 8410
+DFOR: src 77 and target 71; bytes saved source: 0; bytes saved target: 8390
+DFOR: src 213 and target 227; bytes saved source: 0; bytes saved target: 8154
+DFOR: src 206 and target 200; bytes saved source: 0; bytes saved target: 8134
+DFOR: src 67 and target 72; bytes saved source: 0; bytes saved target: 8123
+DFOR: src 204 and target 217; bytes saved source: 0; bytes saved target: 8122
+DFOR: src 211 and target 210; bytes saved source: 0; bytes saved target: 8083
+DFOR: src 220 and target 201; bytes saved source: 0; bytes saved target: 8002
+DFOR: src 158 and target 229; bytes saved source: 0; bytes saved target: 7930
+DFOR: src 66 and target 75; bytes saved source: 0; bytes saved target: 7930
+Dict Sharing: src 23 and target 58; bytes saved source: -1529; bytes saved target: 9152
+DFOR: src 17 and target 57; bytes saved source: 0; bytes saved target: 7206
+Dict Sharing: src 93 and target 87; bytes saved source: -1521; bytes saved target: 8708
+DFOR: src 199 and target 214; bytes saved source: 0; bytes saved target: 7162
+DFOR: src 202 and target 106; bytes saved source: 0; bytes saved target: 6502
+DFOR: src 30 and target 22; bytes saved source: 0; bytes saved target: 5606
+DFOR: src 99 and target 198; bytes saved source: 0; bytes saved target: 5378
+Dict Sharing: src 11 and target 98; bytes saved source: -1913; bytes saved target: 7084
+DFOR: src 216 and target 197; bytes saved source: 0; bytes saved target: 5009
+Dict Sharing: src 103 and target 152; bytes saved source: -2549; bytes saved target: 7452
+DFOR: src 219 and target 209; bytes saved source: 0; bytes saved target: 4738
+Numerical: src 115 and target 135; bytes saved source: 0; bytes saved target: 3920
+DFOR: src 108 and target 174; bytes saved source: 0; bytes saved target: 3862
+Dict_1toN: src 41 and target 53; bytes saved source: -2277; bytes saved target: 5962
+Dict Sharing: src 31 and target 111; bytes saved source: -2365; bytes saved target: 5764
+Dict_1toN: src 12 and target 18; bytes saved source: -2773; bytes saved target: 5846
+Dict Sharing: src 76 and target 168; bytes saved source: -3761; bytes saved target: 6392
+Cancelled Dict_Sharing: 120, 187
+Cancelled Dict_Sharing: 144, 96
+Cancelled Dict_Sharing: 48, 112
+Cancelled Dict_Sharing: 156, 169
+Cancelled Dict_Sharing: 150, 122
+Cancelled Dict_Sharing: 107, 142
+Cancelled Dict_Sharing: 23, 58
+Cancelled Dict_Sharing: 93, 87
+Cancelled Dict_Sharing: 11, 98
+Cancelled Dict_Sharing: 103, 152
+Cancelled Dict_Sharing: 31, 111
+Cancelled Dict_Sharing: 76, 168
+Cancelled DFOR: 170, 181
+Cancelled DFOR: 166, 164
+Cancelled DFOR: 235, 162
+Cancelled DFOR: 36, 62
+Cancelled DFOR: 141, 171
+Cancelled DFOR: 55, 70
+Cancelled DFOR: 143, 161
+Cancelled DFOR: 139, 160
+Cancelled DFOR: 145, 172
+Cancelled DFOR: 54, 121
+Cancelled DFOR: 38, 68
+Cancelled DFOR: 77, 71
+Cancelled DFOR: 17, 57
+Cancelled DFOR: 199, 214
+Cancelled DFOR: 30, 22
+Cancelled DFOR: 99, 198
+Cancelled DFOR: 216, 197
+Cancelled DFOR: 219, 209
+Cancelled DFOR: 108, 174
+Cancelled Dict_1toN: 41, 53
+Cancelled Dict_1toN: 12, 18
+Compressing: YaleLanguages_1; Row Group 0
+Equal: src 0 and target 8; bytes saved source: 0; bytes saved target: 77959
+Equal: src 15 and target 6; bytes saved source: 0; bytes saved target: 66449
+DFOR: src 7 and target 11; bytes saved source: 0; bytes saved target: 63632
+Dict_1toN: src 10 and target 12; bytes saved source: 0; bytes saved target: 49743
+Dict_1toN: src 23 and target 24; bytes saved source: 0; bytes saved target: 48746
+Dict_1to1: src 18 and target 22; bytes saved source: 0; bytes saved target: 44742
+Dict_1to1: src 21 and target 19; bytes saved source: 0; bytes saved target: 44718
+Equal: src 27 and target 4; bytes saved source: 0; bytes saved target: 38471
+Dict_1toN: src 25 and target 20; bytes saved source: 0; bytes saved target: 34063
+Dict_1toN: src 5 and target 14; bytes saved source: 0; bytes saved target: 27735
+Dict_1toN: src 3 and target 9; bytes saved source: 0; bytes saved target: 21727
+Dict_1toN: src 17 and target 1; bytes saved source: -2065; bytes saved target: 17193
+Numerical: src 2 and target 16; bytes saved source: 0; bytes saved target: 8104

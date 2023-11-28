@@ -1,0 +1,59 @@
+columns:
+  - name: AVERAGE_MEDICARE_ALLOWED_AMT
+    type: double
+  - name: AVERAGE_MEDICARE_PAYMENT_AMT
+    type: double
+  - name: AVERAGE_SUBMITTED_CHRG_AMT
+    type: double
+  - name: BENE_DAY_SRVC_CNT
+    type: integer
+  - name: BENE_UNIQUE_CNT
+    type: integer
+  - name: HCPCS_CODE
+    type: string
+  - name: HCPCS_DESCRIPTION
+    type: string
+  - name: HCPCS_DRUG_INDICATOR
+    type: string
+  - name: LINE_SRVC_CNT
+    type: double
+  - name: MEDICARE_PARTICIPATION_INDICATOR
+    type: string
+  - name: NPI
+    type: integer
+  - name: NPPES_CREDENTIALS
+    type: string
+  - name: NPPES_ENTITY_CODE
+    type: string
+  - name: NPPES_PROVIDER_CITY
+    type: string
+  - name: NPPES_PROVIDER_COUNTRY
+    type: string
+  - name: NPPES_PROVIDER_FIRST_NAME
+    type: string
+  - name: NPPES_PROVIDER_GENDER
+    type: string
+  - name: NPPES_PROVIDER_LAST_ORG_NAME
+    type: string
+  - name: NPPES_PROVIDER_MI
+    type: string
+  - name: NPPES_PROVIDER_STATE
+    type: string
+  - name: NPPES_PROVIDER_STREET1
+    type: string
+  - name: NPPES_PROVIDER_STREET2
+    type: string
+  - name: NPPES_PROVIDER_ZIP
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: PLACE_OF_SERVICE
+    type: string
+  - name: PROVIDER_TYPE
+    type: string
+  - name: STDEV_MEDICARE_ALLOWED_AMT
+    type: double
+  - name: STDEV_MEDICARE_PAYMENT_AMT
+    type: double
+  - name: STDEV_SUBMITTED_CHRG_AMT
+    type: double

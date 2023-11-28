@@ -1,0 +1,61 @@
+columns:
+  - name: BEGIN_PUB_DATE
+    type: string
+  - name: BIB_FORMAT
+    type: string
+  - name: BIB_ID
+    type: integer
+  - name: CALL_NO_TYPE
+    type: string
+  - name: CHARGE_DATE
+    type: skip
+  - name: CLASS_BROAD
+    type: string
+  - name: CLASS_GROUP
+    type: string
+  - name: CLASS_LETTER
+    type: string
+  - name: CLASS_NARROW
+    type: string
+  - name: DATE
+    type: string
+  - name: DATE_RANGE_CENTURY
+    type: string
+  - name: DATE_RANGE_DECADE
+    type: string
+  - name: DISCHARGE_DATE
+    type: skip
+  - name: ID
+    type: integer
+  - name: ID1
+    type: integer
+  - name: LANGUAGE
+    type: string
+  - name: LC_BROAD
+    type: string
+  - name: LC_NARROW
+    type: string
+  - name: MFHD_ID
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: PATRON_GROUP_CODE
+    type: string
+  - name: PATRON_GROUP_DISPLAY
+    type: string
+  - name: PATRON_GROUP_ID
+    type: integer
+  - name: PATRON_GROUP_ID1
+    type: integer
+  - name: PATRON_GROUP_NAME
+    type: string
+  - name: PATRON_TYPE (Pseudo vs Patron)
+    type: string
+  - name: PLACE_CODE
+    type: string
+  - name: Patron Group
+    type: string
+  - name: RENEWAL_COUNT
+    type: integer
+  - name: Calculation_1810108111146429
+    type: string

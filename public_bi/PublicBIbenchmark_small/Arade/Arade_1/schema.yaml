@@ -1,0 +1,23 @@
+columns:
+  - name: F1
+    type: string
+  - name: F2
+    type: string
+  - name: F3
+    type: skip
+  - name: F4
+    type: double
+  - name: F5
+    type: double
+  - name: F6
+    type: string
+  - name: F7
+    type: string
+  - name: F8
+    type: double
+  - name: F9
+    type: double
+  - name: Number of Records
+    type: integer
+  - name: WNET (bin)
+    type: integer

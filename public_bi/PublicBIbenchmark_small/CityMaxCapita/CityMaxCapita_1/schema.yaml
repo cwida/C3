@@ -1,0 +1,63 @@
+columns:
+  - name: City_Admin
+    type: string
+  - name: City_State
+    type: string
+  - name: City
+    type: string
+  - name: Created Date_Time
+    type: double
+  - name: Date Joined
+    type: double
+  - name: FF Ratio
+    type: double
+  - name: Favorites
+    type: integer
+  - name: First Link in Tweet
+    type: string
+  - name: Followers
+    type: integer
+  - name: Following
+    type: integer
+  - name: Gender
+    type: string
+  - name: Influencer?
+    type: integer
+  - name: Keyword
+    type: string
+  - name: LPF
+    type: double
+  - name: Language
+    type: string
+  - name: Lat
+    type: double
+  - name: Listed Number
+    type: integer
+  - name: Long Domain
+    type: string
+  - name: Long
+    type: double
+  - name: Number of Records
+    type: integer
+  - name: Region
+    type: string
+  - name: Short Domain
+    type: string
+  - name: State_Country
+    type: string
+  - name: State
+    type: string
+  - name: Tweet Text
+    type: string
+  - name: Tweets
+    type: integer
+  - name: Twitter Client
+    type: string
+  - name: User Bio
+    type: string
+  - name: User Loc
+    type: string
+  - name: Username 1
+    type: string
+  - name: Username
+    type: string

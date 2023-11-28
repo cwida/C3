@@ -1,0 +1,57 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: average_Medicare_allowed_amt
+    type: double
+  - name: average_Medicare_payment_amt
+    type: double
+  - name: average_submitted_chrg_amt
+    type: double
+  - name: bene_day_srvc_cnt
+    type: integer
+  - name: bene_unique_cnt
+    type: integer
+  - name: hcpcs_code
+    type: integer
+  - name: hcpcs_description
+    type: string
+  - name: line_srvc_cnt
+    type: integer
+  - name: medicare_participation_indicator
+    type: string
+  - name: npi
+    type: integer
+  - name: nppes_credentials
+    type: string
+  - name: nppes_entity_code
+    type: string
+  - name: nppes_provider_city
+    type: string
+  - name: nppes_provider_country
+    type: string
+  - name: nppes_provider_first_name
+    type: string
+  - name: nppes_provider_gender
+    type: string
+  - name: nppes_provider_last_org_name
+    type: string
+  - name: nppes_provider_mi
+    type: string
+  - name: nppes_provider_state
+    type: string
+  - name: nppes_provider_street1
+    type: string
+  - name: nppes_provider_street2
+    type: string
+  - name: nppes_provider_zip
+    type: integer
+  - name: place_of_service
+    type: string
+  - name: provider_type
+    type: string
+  - name: stdev_Medicare_allowed_amt
+    type: double
+  - name: stdev_Medicare_payment_amt
+    type: double
+  - name: stdev_submitted_chrg_amt
+    type: double

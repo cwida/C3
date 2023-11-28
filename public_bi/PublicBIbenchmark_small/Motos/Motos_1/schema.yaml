@@ -1,0 +1,89 @@
+columns:
+  - name: Anunciante
+    type: string
+  - name: Aviso
+    type: string
+  - name: "A\uFFFDo"
+    type: integer
+  - name: Cadena
+    type: string
+  - name: Categoria
+    type: string
+  - name: Circulacion
+    type: string
+  - name: Codigo
+    type: integer
+  - name: Cols
+    type: integer
+  - name: Concatenar 1
+    type: string
+  - name: Concatenar 2
+    type: string
+  - name: Corte
+    type: integer
+  - name: De_Npags
+    type: integer
+  - name: Dia_Semana
+    type: integer
+  - name: Disco
+    type: integer
+  - name: Duracion
+    type: integer
+  - name: Est
+    type: string
+  - name: FECHA
+    type: skip
+  - name: Franja
+    type: string
+  - name: Genero
+    type: string
+  - name: Holding
+    type: string
+  - name: Hora_Pagina
+    type: integer
+  - name: InversionQ
+    type: double
+  - name: InversionUS
+    type: double
+  - name: Marca
+    type: string
+  - name: Medio
+    type: string
+  - name: Mes
+    type: string
+  - name: NumAnuncios
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: Plgs
+    type: integer
+  - name: Posicion_Edicion
+    type: integer
+  - name: PrimeraLinea
+    type: string
+  - name: Producto
+    type: string
+  - name: SEMANA
+    type: integer
+  - name: Sector
+    type: string
+  - name: Soporte
+    type: string
+  - name: Subsector
+    type: string
+  - name: Unidad
+    type: string
+  - name: VER ANUNCIO
+    type: string
+  - name: Vehiculo
+    type: string
+  - name: extencion
+    type: string
+  - name: medio2
+    type: string
+  - name: www1
+    type: string
+  - name: www2
+    type: string
+  - name: Anunciante (grupo)
+    type: string

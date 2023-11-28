@@ -1,0 +1,75 @@
+columns:
+  - name: Actual Total Distance Miles
+    type: double
+  - name: Date
+    type: skip
+  - name: Financial Year & Period
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: Operator
+    type: string
+  - name: Planned Dest Actual Datetime
+    type: skip
+  - name: Planned Dest GBTT Datetime
+    type: skip
+  - name: Planned Dest Stanox Description
+    type: string
+  - name: Planned Dest Stanox
+    type: integer
+  - name: Planned Dest WTT Datetime
+    type: skip
+  - name: Planned Orig Stanox Description
+    type: string
+  - name: Planned Orig Stanox
+    type: integer
+  - name: Planned Origin Actual Datetime
+    type: skip
+  - name: Planned Origin GBTT Datetime
+    type: skip
+  - name: Planned Origin WTT Datetime
+    type: skip
+  - name: Planned Total Distance Miles
+    type: double
+  - name: Service Group Code
+    type: string
+  - name: Service Group Description
+    type: string
+  - name: TSC
+    type: integer
+  - name: Train ID
+    type: string
+  - name: v_CaSL Flag
+    type: integer
+  - name: v_Dest Lateness (GBTT)
+    type: integer
+  - name: v_Dest Lateness (WTT)
+    type: double
+  - name: v_Full Cancellation Flag
+    type: integer
+  - name: v_Origin Lateness (GBTT)
+    type: integer
+  - name: v_Origin Lateness (WTT)
+    type: integer
+  - name: v_PPM Pass Flag
+    type: integer
+  - name: v_RT Flag
+    type: integer
+  - name: v_Sector
+    type: string
+  - name: v_Unique Train ID
+    type: string
+  - name: c_Origin Time (GBTT) (copy)
+    type: string
+  - name: Calculation_2510610113130467
+    type: integer
+  - name: Calculation_4220604162631191
+    type: string
+  - name: Calculation_5580608170646388
+    type: string
+  - name: Calculation_6080608165132814
+    type: string
+  - name: Calculation_9230610113105724
+    type: integer
+  - name: Date (group)
+    type: skip

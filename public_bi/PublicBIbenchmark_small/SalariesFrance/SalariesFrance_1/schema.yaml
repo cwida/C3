@@ -1,0 +1,115 @@
+columns:
+  - name: A129
+    type: string
+  - name: A129_LIBCOURT
+    type: string
+  - name: A129_LIBCOURT_PJ
+    type: string
+  - name: A129_LIB
+    type: string
+  - name: A88
+    type: string
+  - name: A88_LIB
+    type: string
+  - name: ADECCO_NB_CANDIDATS
+    type: double
+  - name: ADECCO_NB_CAND_METIERS_PROCHES
+    type: double
+  - name: ADECCO_SALAIRES_BRUTS
+    type: double
+  - name: AG_25_29
+    type: double
+  - name: AG_30_39
+    type: double
+  - name: AG_40_49
+    type: double
+  - name: AG_50_54
+    type: double
+  - name: AG_M25
+    type: double
+  - name: AG_P55
+    type: double
+  - name: APPRENTI
+    type: double
+  - name: BMO_DIFFICILE
+    type: double
+  - name: BMO_INTENTIONS
+    type: double
+  - name: BMO_SAISON
+    type: double
+  - name: CODGEO_PRINCIPAL
+    type: string
+  - name: CP_PRINCIPAL
+    type: string
+  - name: Calculation_163536984210948109
+    type: integer
+  - name: Calculation_392657618632466432
+    type: double
+  - name: Calculation_393783518250995712
+    type: double
+  - name: EMBAUCHES_GLOBAL
+    type: double
+  - name: EMBAUCHES_NM1
+    type: double
+  - name: EMBAUCHES_NP1
+    type: double
+  - name: EMBAUCHE_CDD
+    type: double
+  - name: EMBAUCHE_CDI
+    type: double
+  - name: EMPSAL_NM1
+    type: double
+  - name: EMPSAL_NP1
+    type: double
+  - name: FEMMES
+    type: double
+  - name: HOMMES
+    type: double
+  - name: INTERIM_NM1
+    type: double
+  - name: INTERIM_NP1
+    type: double
+  - name: LIBDOM1
+    type: string
+  - name: LIBDOM2
+    type: string
+  - name: LIBELLES_ROME_BONNE_FORMATION
+    type: string
+  - name: LIBROME_MINUSCULE
+    type: string
+  - name: Latitude
+    type: double
+  - name: Longitude
+    type: double
+  - name: NB_DE_PE
+    type: integer
+  - name: NB_ETS
+    type: integer
+  - name: NOM_PAGES_JAUNES
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: REG_LIB
+    type: string
+  - name: RENSEIGNE
+    type: string
+  - name: REPERE1 (copie)
+    type: integer
+  - name: ROME
+    type: string
+  - name: ROME_LIB
+    type: string
+  - name: SALAIRE_BRUT
+    type: double
+  - name: SALAIRE_VF
+    type: double
+  - name: TK_SIRET
+    type: integer
+  - name: UIMM_FAMILLES
+    type: string
+  - name: ZE2010
+    type: string
+  - name: ZE2010_LIB
+    type: string
+  - name: Calculation_490892384732147714
+    type: string

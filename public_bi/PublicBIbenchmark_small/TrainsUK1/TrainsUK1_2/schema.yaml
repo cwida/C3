@@ -1,0 +1,57 @@
+columns:
+  - name: Average Lateness
+    type: double
+  - name: Calculation_2040623161253421
+    type: double
+  - name: Calculation_2890421151640665
+    type: string
+  - name: Calculation_3330422103625946
+    type: double
+  - name: Engineering Allowance (mins)
+    type: integer
+  - name: Headcode
+    type: string
+  - name: Median Lateness
+    type: double
+  - name: Operator Name
+    type: string
+  - name: Operator
+    type: string
+  - name: Pathing Allowance (mins)
+    type: double
+  - name: Performance Allowance (mins)
+    type: double
+  - name: Planned Dest Location Full Name
+    type: string
+  - name: Planned Origin Location Full Name
+    type: string
+  - name: Punctuality Threshold
+    type: integer
+  - name: RT%
+    type: double
+  - name: Ranking
+    type: integer
+  - name: Section Start Location Full Name
+    type: string
+  - name: Section Start Location Name
+    type: string
+  - name: Time-to-10%
+    type: double
+  - name: Time-to-2%
+    type: double
+  - name: Time-to-5%
+    type: double
+  - name: Timetable
+    type: string
+  - name: Train Count
+    type: integer
+  - name: v_Headcode Description
+    type: string
+  - name: v_Section_WTT_Time
+    type: skip
+  - name: v_WTT and Section Name and Timing Event
+    type: string
+  - name: Calculation_2480421151322357
+    type: string
+  - name: Calculation_0430624152715434
+    type: string

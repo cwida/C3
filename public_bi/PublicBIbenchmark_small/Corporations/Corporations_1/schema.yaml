@@ -1,0 +1,55 @@
+columns:
+  - name: Id1
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: angelco_account
+    type: string
+  - name: business_model
+    type: string
+  - name: city
+    type: string
+  - name: continent
+    type: string
+  - name: country
+    type: string
+  - name: crunchbase_account
+    type: string
+  - name: facebook_account
+    type: string
+  - name: financing_stage
+    type: string
+  - name: founding_date
+    type: string
+  - name: id
+    type: integer
+  - name: industries
+    type: string
+  - name: keywords
+    type: string
+  - name: last_funding_date
+    type: string
+  - name: linkedin_account
+    type: string
+  - name: location
+    type: string
+  - name: long_description
+    type: string
+  - name: name
+    type: string
+  - name: num_employees
+    type: integer
+  - name: region
+    type: string
+  - name: score
+    type: integer
+  - name: short_descriptiion
+    type: string
+  - name: stage
+    type: string
+  - name: total_funding
+    type: integer
+  - name: twitter_account
+    type: string
+  - name: website
+    type: string

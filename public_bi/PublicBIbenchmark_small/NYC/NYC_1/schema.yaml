@@ -1,0 +1,109 @@
+columns:
+  - name: Address Type
+    type: string
+  - name: Agency Name
+    type: string
+  - name: Agency
+    type: string
+  - name: Borough
+    type: string
+  - name: Bridge Highway Direction
+    type: string
+  - name: Bridge Highway Name
+    type: string
+  - name: Bridge Highway Segment
+    type: skip
+  - name: City
+    type: string
+  - name: Closed Date
+    type: skip
+  - name: Community Board
+    type: string
+  - name: Complaint Type
+    type: string
+  - name: Created Date
+    type: skip
+  - name: Cross Street 1
+    type: string
+  - name: Cross Street 2
+    type: string
+  - name: Descriptor
+    type: string
+  - name: Due Date
+    type: skip
+  - name: Facility Type
+    type: string
+  - name: Ferry Direction
+    type: string
+  - name: Ferry Terminal Name
+    type: string
+  - name: Garage Lot Name
+    type: string
+  - name: Incident Address
+    type: string
+  - name: Incident Zip
+    type: skip
+  - name: Intersection Street 1
+    type: string
+  - name: Intersection Street 2
+    type: string
+  - name: Landmark
+    type: string
+  - name: Latitude
+    type: double
+  - name: Location Type
+    type: string
+  - name: Location
+    type: string
+  - name: Longitude
+    type: double
+  - name: Number of Records
+    type: integer
+  - name: Park Borough
+    type: string
+  - name: Park Facility Name
+    type: string
+  - name: Resolution Action Updated Date
+    type: skip
+  - name: Resolution Description
+    type: string
+  - name: Road Ramp
+    type: string
+  - name: School Address
+    type: string
+  - name: School City
+    type: string
+  - name: School Code
+    type: string
+  - name: School Name
+    type: string
+  - name: School Not Found
+    type: string
+  - name: School Number
+    type: string
+  - name: School Phone Number
+    type: string
+  - name: School Region
+    type: string
+  - name: School State
+    type: string
+  - name: School Zip
+    type: string
+  - name: School or Citywide Complaint
+    type: string
+  - name: Status
+    type: string
+  - name: Street Name
+    type: string
+  - name: Taxi Company Borough
+    type: string
+  - name: Taxi Pick Up Location
+    type: string
+  - name: Unique Key
+    type: integer
+  - name: Vehicle Type
+    type: string
+  - name: X Coordinate (State Plane)
+    type: integer
+  - name: Y Coordinate (State Plane)
+    type: integer

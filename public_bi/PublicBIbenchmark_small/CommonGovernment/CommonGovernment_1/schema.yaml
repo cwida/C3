@@ -1,0 +1,113 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: a_aid_acontid_agencyid
+    type: string
+  - name: a_aid_acontid_piid
+    type: string
+  - name: ag_name
+    type: string
+  - name: agency_code
+    type: string
+  - name: ase_rowid
+    type: integer
+  - name: award_type
+    type: string
+  - name: award_type_code
+    type: string
+  - name: award_type_key
+    type: integer
+  - name: baseandalloptionsvalue
+    type: double
+  - name: baseandexercisedoptionsvalue
+    type: double
+  - name: bureau_code
+    type: string
+  - name: bureau_name
+    type: string
+  - name: cd_contactiontype
+    type: string
+  - name: co_name
+    type: string
+  - name: co_state
+    type: string
+  - name: code
+    type: string
+  - name: contract_num
+    type: string
+  - name: contract_signeddate
+    type: string
+  - name: contractingofficeagencyid
+    type: string
+  - name: count_fetched
+    type: integer
+  - name: count_total
+    type: integer
+  - name: description
+    type: string
+  - name: fk_epa_des_prod
+    type: integer
+  - name: fk_rec_mat
+    type: integer
+  - name: ftsdollar
+    type: double
+  - name: funding_agency
+    type: string
+  - name: funding_agency_key
+    type: integer
+  - name: funding_agency_name
+    type: string
+  - name: gsadollar
+    type: double
+  - name: gsaotherdollar
+    type: double
+  - name: gwacs
+    type: double
+  - name: level1_category
+    type: string
+  - name: level2_category
+    type: string
+  - name: naics_code
+    type: string
+  - name: naics_name
+    type: string
+  - name: nongsadollar
+    type: double
+  - name: obligatedamount
+    type: double
+  - name: obligatedamount_1
+    type: double
+  - name: pbsdollar
+    type: double
+  - name: primary_contract_piid
+    type: string
+  - name: prod_or_serv_code
+    type: string
+  - name: prod_or_serv_code_desc
+    type: string
+  - name: psc_code
+    type: string
+  - name: psc_code_description
+    type: string
+  - name: psc_key
+    type: integer
+  - name: quarter
+    type: string
+  - name: refidvid_agencyid
+    type: string
+  - name: refidvid_piid
+    type: string
+  - name: short_name
+    type: string
+  - name: signeddate
+    type: string
+  - name: vend_contoffbussizedeterm
+    type: string
+  - name: vend_dunsnumber
+    type: string
+  - name: vend_vendorname
+    type: string
+  - name: whocanuse
+    type: string
+  - name: year
+    type: string

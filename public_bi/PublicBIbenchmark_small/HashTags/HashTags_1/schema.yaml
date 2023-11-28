@@ -1,0 +1,203 @@
+columns:
+  - name: Number of Records
+    type: integer
+  - name: demographic#gender
+    type: string
+  - name: interaction#author#avatar
+    type: string
+  - name: interaction#author#id
+    type: double
+  - name: interaction#author#language
+    type: string
+  - name: interaction#author#link
+    type: string
+  - name: interaction#author#name
+    type: string
+  - name: interaction#author#username
+    type: string
+  - name: interaction#content
+    type: string
+  - name: interaction#created_at
+    type: string
+  - name: interaction#geo#latitude
+    type: double
+  - name: interaction#geo#longitude
+    type: double
+  - name: interaction#hashtags
+    type: string
+  - name: interaction#id
+    type: string
+  - name: interaction#link
+    type: string
+  - name: interaction#mention_ids
+    type: string
+  - name: interaction#mentions
+    type: string
+  - name: interaction#received_at
+    type: double
+  - name: interaction#schema#version
+    type: integer
+  - name: interaction#source
+    type: string
+  - name: interaction#type
+    type: string
+  - name: twitter#created_at
+    type: string
+  - name: twitter#display_urls
+    type: string
+  - name: twitter#domains
+    type: string
+  - name: twitter#filter_level
+    type: string
+  - name: twitter#geo#latitude
+    type: double
+  - name: twitter#geo#longitude
+    type: double
+  - name: twitter#hashtags
+    type: string
+  - name: twitter#id
+    type: double
+  - name: twitter#in_reply_to_screen_name
+    type: string
+  - name: twitter#in_reply_to_status_id
+    type: double
+  - name: twitter#in_reply_to_user_id
+    type: skip
+  - name: twitter#lang
+    type: string
+  - name: twitter#links
+    type: string
+  - name: twitter#media
+    type: string
+  - name: twitter#mention_ids
+    type: string
+  - name: twitter#mentions
+    type: string
+  - name: twitter#place#country
+    type: string
+  - name: twitter#place#country_code
+    type: string
+  - name: twitter#place#full_name
+    type: string
+  - name: twitter#place#id
+    type: string
+  - name: twitter#place#name
+    type: string
+  - name: twitter#place#place_type
+    type: string
+  - name: twitter#place#url
+    type: string
+  - name: twitter#possibly_sensitive
+    type: string
+  - name: twitter#source
+    type: string
+  - name: twitter#text
+    type: string
+  - name: twitter#user#created_at
+    type: string
+  - name: twitter#user#description
+    type: string
+  - name: twitter#user#favourites_count
+    type: integer
+  - name: twitter#user#followers_count
+    type: integer
+  - name: twitter#user#friends_count
+    type: integer
+  - name: twitter#user#geo_enabled
+    type: string
+  - name: twitter#user#id
+    type: double
+  - name: twitter#user#id_str
+    type: double
+  - name: twitter#user#lang
+    type: string
+  - name: twitter#user#listed_count
+    type: integer
+  - name: twitter#user#location
+    type: string
+  - name: twitter#user#name
+    type: string
+  - name: twitter#user#profile_image_url
+    type: string
+  - name: twitter#user#profile_image_url_https
+    type: string
+  - name: twitter#user#screen_name
+    type: string
+  - name: twitter#user#statuses_count
+    type: integer
+  - name: twitter#user#time_zone
+    type: string
+  - name: twitter#user#url
+    type: string
+  - name: twitter#user#utc_offset
+    type: integer
+  - name: twitter#user#verified
+    type: string
+  - name: 'Contains: suburgatory (copy)'
+    type: integer
+  - name: 'Contains: Castle (copy)'
+    type: integer
+  - name: 'Contains: revenge (copy)'
+    type: integer
+  - name: 'Contains: nashville (copy)'
+    type: integer
+  - name: 'Contains: modernfamily (copy)'
+    type: integer
+  - name: 'Contains: lastmanstanding (copy)'
+    type: integer
+  - name: 'Contains: TheNeighbors (copy)'
+    type: integer
+  - name: 'Contains: TheNeighbors (copy 3)'
+    type: integer
+  - name: 'Contains: TheNeighbors (copy 2)'
+    type: integer
+  - name: 'Contains: suburgatory (copy 2)'
+    type: integer
+  - name: 'Contains: Scandal (copy)'
+    type: integer
+  - name: 'Contains: Scandal (copy 3)'
+    type: integer
+  - name: 'Contains: Scandal (copy 2)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy 6)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy 5)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy 4)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy 3)'
+    type: integer
+  - name: 'Contains: RookieBlue (copy 2)'
+    type: integer
+  - name: 'Contains: OnceUponATime (copy)'
+    type: integer
+  - name: 'Contains: Motive (copy)'
+    type: integer
+  - name: 'Contains: Motive (copy 2)'
+    type: integer
+  - name: 'Contains: KillerWomen (copy)'
+    type: integer
+  - name: 'Contains: KillerWomen (copy 2)'
+    type: integer
+  - name: 'Contains: GreysAnatomy (copy)'
+    type: integer
+  - name: 'Contains: GreysAnatomy (copy 2)'
+    type: integer
+  - name: Calculation_6220303224029615
+    type: integer
+  - name: 'Contains: Castle (copy 2)'
+    type: integer
+  - name: 'Contains: AgentsofSHIELD (copy)'
+    type: integer
+  - name: 'Contains: AFV (copy)'
+    type: integer
+  - name: 'Contains: AFV (copy 2)'
+    type: integer
+  - name: 'Contains: ABC2020 (copy)'
+    type: integer
+  - name: Calculation_6610227171140491
+    type: skip
+  - name: 'Contains: TheMiddle (copy)'
+    type: integer

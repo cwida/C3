@@ -1,0 +1,363 @@
+columns:
+  - name: ACTIVATION_DATE
+    type: skip
+  - name: ARPU_P1
+    type: double
+  - name: ARPU_P2
+    type: double
+  - name: ARPU_P3
+    type: double
+  - name: ARPU_P4
+    type: double
+  - name: ARPU_P6
+    type: double
+  - name: BALANCE_END_P2
+    type: double
+  - name: CHARGD_SMS_P1
+    type: double
+  - name: CHARGD_SMS_P2
+    type: double
+  - name: CHARGD_SMS_P3
+    type: double
+  - name: CHARGD_SMS_P4
+    type: double
+  - name: CHARGD_SMS_P6
+    type: double
+  - name: CHRGD_CALLS_P1
+    type: double
+  - name: CHRGD_CALLS_P2
+    type: double
+  - name: CHRGD_CALLS_P3
+    type: double
+  - name: CHRGD_CALLS_P4
+    type: double
+  - name: CHRGD_CALLS_P6
+    type: double
+  - name: CHRGD_MINS_P1
+    type: double
+  - name: CHRGD_MINS_P2
+    type: double
+  - name: CHRGD_MINS_P3
+    type: double
+  - name: CHRGD_MINS_P4
+    type: double
+  - name: CHRGD_MINS_P6
+    type: double
+  - name: CHRGD_REV_P1
+    type: double
+  - name: CHRGD_REV_P2
+    type: double
+  - name: CHRGD_REV_P3
+    type: double
+  - name: CHRGD_REV_P4
+    type: double
+  - name: CHRGD_REV_P6
+    type: double
+  - name: CHURN
+    type: skip
+  - name: FREE_CALLS_P1
+    type: double
+  - name: FREE_CALLS_P2
+    type: double
+  - name: FREE_CALLS_P3
+    type: double
+  - name: FREE_CALLS_P4
+    type: double
+  - name: FREE_CALLS_P6
+    type: double
+  - name: FREE_MINS_P1
+    type: double
+  - name: FREE_MINS_P2
+    type: double
+  - name: FREE_MINS_P3
+    type: double
+  - name: FREE_MINS_P4
+    type: double
+  - name: FREE_MINS_P6
+    type: double
+  - name: FREE_SMS_P1
+    type: double
+  - name: FREE_SMS_P2
+    type: double
+  - name: FREE_SMS_P3
+    type: double
+  - name: FREE_SMS_P4
+    type: double
+  - name: FREE_SMS_P6
+    type: double
+  - name: IDD_CALLS_P1
+    type: double
+  - name: IDD_CALLS_P2
+    type: double
+  - name: IDD_CALLS_P3
+    type: double
+  - name: IDD_CALLS_P4
+    type: double
+  - name: IDD_CALLS_P6
+    type: double
+  - name: IDD_MINS_P1
+    type: double
+  - name: IDD_MINS_P2
+    type: double
+  - name: IDD_MINS_P3
+    type: double
+  - name: IDD_MINS_P4
+    type: double
+  - name: IDD_MINS_P6
+    type: double
+  - name: IDD_REV_P1
+    type: double
+  - name: IDD_REV_P2
+    type: double
+  - name: IDD_REV_P3
+    type: double
+  - name: IDD_REV_P4
+    type: double
+  - name: IDD_REV_P6
+    type: double
+  - name: INCOMING_INC_REV_P1
+    type: double
+  - name: INCOMING_INC_REV_P2
+    type: double
+  - name: INCOMING_INC_REV_P3
+    type: double
+  - name: INCOMING_INC_REV_P4
+    type: double
+  - name: INCOMING_INC_REV_P6
+    type: double
+  - name: INCOMING_TOTAL_CALLS_P1
+    type: double
+  - name: INCOMING_TOTAL_CALLS_P2
+    type: double
+  - name: INCOMING_TOTAL_CALLS_P3
+    type: double
+  - name: INCOMING_TOTAL_CALLS_P4
+    type: double
+  - name: INCOMING_TOTAL_CALLS_P6
+    type: double
+  - name: LAST_RCHRG_AMT
+    type: double
+  - name: LST_ACTVTY_DT
+    type: skip
+  - name: LST_RCHRG_DATE
+    type: skip
+  - name: MSISDN
+    type: double
+  - name: Number of Records
+    type: integer
+  - name: OFFNET_CALLS_P1
+    type: double
+  - name: OFFNET_CALLS_P2
+    type: double
+  - name: OFFNET_CALLS_P3
+    type: double
+  - name: OFFNET_CALLS_P4
+    type: double
+  - name: OFFNET_CALLS_P6
+    type: double
+  - name: OFFNET_MINS_P1
+    type: double
+  - name: OFFNET_MINS_P2
+    type: double
+  - name: OFFNET_MINS_P3
+    type: double
+  - name: OFFNET_MINS_P4
+    type: double
+  - name: OFFNET_MINS_P6
+    type: double
+  - name: OFFNET_REV_P1
+    type: double
+  - name: OFFNET_REV_P2
+    type: double
+  - name: OFFNET_REV_P3
+    type: double
+  - name: OFFNET_REV_P4
+    type: double
+  - name: OFFNET_REV_P6
+    type: double
+  - name: ONNET_CALLS_P1
+    type: double
+  - name: ONNET_CALLS_P2
+    type: double
+  - name: ONNET_CALLS_P3
+    type: double
+  - name: ONNET_CALLS_P4
+    type: double
+  - name: ONNET_CALLS_P6
+    type: double
+  - name: ONNET_MINS_P1
+    type: double
+  - name: ONNET_MINS_P2
+    type: double
+  - name: ONNET_MINS_P3
+    type: double
+  - name: ONNET_MINS_P4
+    type: double
+  - name: ONNET_MINS_P6
+    type: double
+  - name: ONNET_REV_P1
+    type: double
+  - name: ONNET_REV_P2
+    type: double
+  - name: ONNET_REV_P3
+    type: double
+  - name: ONNET_REV_P4
+    type: double
+  - name: ONNET_REV_P6
+    type: double
+  - name: PACKAGE_NAME
+    type: string
+  - name: RCHRG_AMT_EXP_DATE
+    type: skip
+  - name: RECHRG_INC_MIN_USED_P1
+    type: double
+  - name: RECHRG_INC_MIN_USED_P2
+    type: double
+  - name: RECHRG_INC_MIN_USED_P3
+    type: double
+  - name: RECHRG_INC_MIN_USED_P4
+    type: double
+  - name: RECHRG_INC_MIN_USED_P6
+    type: double
+  - name: RECHRG_TOTAL_LOAD_P1
+    type: double
+  - name: RECHRG_TOTAL_LOAD_P2
+    type: double
+  - name: RECHRG_TOTAL_LOAD_P3
+    type: double
+  - name: RECHRG_TOTAL_LOAD_P4
+    type: double
+  - name: RECHRG_TOTAL_LOAD_P6
+    type: double
+  - name: RECHRG_TOTAL_SUBS_P1
+    type: double
+  - name: RECHRG_TOTAL_SUBS_P2
+    type: double
+  - name: RECHRG_TOTAL_SUBS_P3
+    type: double
+  - name: RECHRG_TOTAL_SUBS_P4
+    type: double
+  - name: RECHRG_TOTAL_SUBS_P6
+    type: double
+  - name: RECHRG_TOTAL_TRANS_P1
+    type: double
+  - name: RECHRG_TOTAL_TRANS_P2
+    type: double
+  - name: RECHRG_TOTAL_TRANS_P3
+    type: double
+  - name: RECHRG_TOTAL_TRANS_P4
+    type: double
+  - name: RECHRG_TOTAL_TRANS_P6
+    type: double
+  - name: REVENUE_SMS_P1
+    type: double
+  - name: REVENUE_SMS_P2
+    type: double
+  - name: REVENUE_SMS_P3
+    type: double
+  - name: REVENUE_SMS_P4
+    type: double
+  - name: REVENUE_SMS_P6
+    type: double
+  - name: STATUS_END_P2
+    type: double
+  - name: TOTAL_CALLS_P1
+    type: double
+  - name: TOTAL_CALLS_P2
+    type: double
+  - name: TOTAL_CALLS_P3
+    type: double
+  - name: TOTAL_CALLS_P4
+    type: double
+  - name: TOTAL_CALLS_P6
+    type: double
+  - name: TOTAL_CALLS_REV_P1
+    type: double
+  - name: TOTAL_CALLS_REV_P2
+    type: double
+  - name: TOTAL_CALLS_REV_P3
+    type: double
+  - name: TOTAL_CALLS_REV_P4
+    type: double
+  - name: TOTAL_CALLS_REV_P6
+    type: double
+  - name: TOTAL_INCOMING_MIN_P1
+    type: double
+  - name: TOTAL_INCOMING_MIN_P2
+    type: double
+  - name: TOTAL_INCOMING_MIN_P3
+    type: double
+  - name: TOTAL_INCOMING_MIN_P4
+    type: double
+  - name: TOTAL_INCOMING_MIN_P6
+    type: double
+  - name: TOTAL_INCOMING_REV_P1
+    type: double
+  - name: TOTAL_INCOMING_REV_P2
+    type: double
+  - name: TOTAL_INCOMING_REV_P3
+    type: double
+  - name: TOTAL_INCOMING_REV_P4
+    type: double
+  - name: TOTAL_INCOMING_REV_P6
+    type: double
+  - name: TOTAL_MINS_P1
+    type: double
+  - name: TOTAL_MINS_P2
+    type: double
+  - name: TOTAL_MINS_P3
+    type: double
+  - name: TOTAL_MINS_P4
+    type: double
+  - name: TOTAL_MINS_P6
+    type: double
+  - name: TOTAL_OUTGOING_MIN_P1
+    type: double
+  - name: TOTAL_OUTGOING_MIN_P2
+    type: double
+  - name: TOTAL_OUTGOING_MIN_P3
+    type: double
+  - name: TOTAL_OUTGOING_MIN_P4
+    type: double
+  - name: TOTAL_OUTGOING_MIN_P6
+    type: double
+  - name: TOTAL_SMS_P1
+    type: double
+  - name: TOTAL_SMS_P2
+    type: double
+  - name: TOTAL_SMS_P3
+    type: double
+  - name: TOTAL_SMS_P4
+    type: double
+  - name: TOTAL_SMS_P6
+    type: double
+  - name: TOTAL_VAS_REV_P1
+    type: double
+  - name: TOTAL_VAS_REV_P2
+    type: double
+  - name: TOTAL_VAS_REV_P3
+    type: double
+  - name: TOTAL_VAS_REV_P4
+    type: double
+  - name: TOTAL_VAS_REV_P6
+    type: double
+  - name: TOTA_OUTGOING_REV_P1
+    type: double
+  - name: TOTA_OUTGOING_REV_P2
+    type: double
+  - name: TOTA_OUTGOING_REV_P3
+    type: double
+  - name: TOTA_OUTGOING_REV_P4
+    type: double
+  - name: TOTA_OUTGOING_REV_P6
+    type: double
+  - name: UNIQUE_SUBS_SMS_P1
+    type: double
+  - name: UNIQUE_SUBS_SMS_P2
+    type: double
+  - name: UNIQUE_SUBS_SMS_P3
+    type: double
+  - name: UNIQUE_SUBS_SMS_P4
+    type: double
+  - name: UNIQUE_SUBS_SMS_P6
+    type: double

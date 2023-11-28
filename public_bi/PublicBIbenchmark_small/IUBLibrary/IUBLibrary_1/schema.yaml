@@ -1,0 +1,55 @@
+columns:
+  - name: Author
+    type: string
+  - name: CallNumber
+    type: string
+  - name: CallSequence
+    type: integer
+  - name: CatalogKey
+    type: integer
+  - name: ClasscodeLCSUDOCNLM
+    type: string
+  - name: CopyNumber
+    type: integer
+  - name: DateLastCharged
+    type: skip
+  - name: DateofPublication260c
+    type: string
+  - name: Format
+    type: string
+  - name: Inactive
+    type: string
+  - name: ItemCreatedDate
+    type: skip
+  - name: ItemType
+    type: string
+  - name: Language
+    type: string
+  - name: LastActivityDate
+    type: skip
+  - name: Library
+    type: string
+  - name: MARCkey
+    type: integer
+  - name: OCLC
+    type: integer
+  - name: PubYear
+    type: integer
+  - name: Sh
+    type: string
+  - name: TitleControlNumber
+    type: string
+  - name: TitleCreatedDate
+    type: skip
+  - name: Title
+    type: string
+  - name: TotalCharges
+    type: integer
+  - name: Type
+    type: string
+  - name: elvingKey
+    type: string
+  - name: Inactive (group)
+    type: string
+  - name: Calculation_649925789325832192
+    type: string

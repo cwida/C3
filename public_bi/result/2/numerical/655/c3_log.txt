@@ -1,0 +1,96 @@
+Config:
+C3_WINDOW_SIZE: 100
+BYTES_SAVED_MARGIN: 0.010000
+C3_GRAPH_SHARE_SOURCE_NODES: 1
+REVERT_BB_IF_C3_BAD: 0
+USE_PRUNING_RULES: 1
+FINALIZE_GRAPH_RESORT_EDGES: 0
+USE_RANDOM_GENERATOR_SAMPLES: 0
+IGNORE_BB_ECR: 0
+C3_SAMPLE_NUM_RUNS: 655
+C3_SAMPLE_RUN_SIZE: 1
+ENABLE_EQUALITY: 0
+ENABLE_DICT_1TO1: 0
+ENABLE_DICT_1TON: 0
+ENABLE_NUMERICAL: 1
+ENABLE_DFOR: 0
+ENABLE_DICT_SHARING: 0
+DICT_EXCEPTION_RATIO_THRESHOLD: 0.100000
+EQUALITY_EXCEPTION_RATIO_THRESHOLD: 0.100000
+DICTIONARY_COMPRESSION_SCHEME: 0
+DICTIONARY_CODES_COMPRESSION_SCHEME: 5
+EXCEPTION_COMPRESSION_SCHEME: 0
+DFOR_CODES_COMPRESSION_SCHEME: 5
+NUMERICAL_CODES_COMPRESSION_SCHEME: 5
+SHARE_ROW_GROUP_SCHEME: 1
+
+Compressing: Arade_1; Row Group 0
+Compressing: Bimbo_1; Row Group 0
+Numerical: src 3 and target 11; bytes saved source: 0; bytes saved target: 26632
+Compressing: CityMaxCapita_1; Row Group 0
+Compressing: CMSprovider_1; Row Group 0
+Compressing: CommonGovernment_1; Row Group 0
+Numerical: src 20 and target 21; bytes saved source: 0; bytes saved target: 36278
+Compressing: Corporations_1; Row Group 0
+Numerical: src 11 and target 0; bytes saved source: 0; bytes saved target: 34852
+Compressing: Eixo_1; Row Group 0
+Numerical: src 9 and target 6; bytes saved source: 0; bytes saved target: 12077
+Compressing: Euro2016_1; Row Group 0
+Compressing: Food_1; Row Group 0
+Compressing: Generico_1; Row Group 0
+Compressing: HashTags_1; Row Group 0
+Compressing: Hatred_1; Row Group 0
+Compressing: IGlocations1_1; Row Group 0
+Numerical: src 5 and target 9; bytes saved source: 0; bytes saved target: 49344
+Numerical: src 0 and target 10; bytes saved source: 0; bytes saved target: 27052
+Numerical: src 12 and target 13; bytes saved source: 0; bytes saved target: 16780
+Numerical: src 12 and target 11; bytes saved source: 0; bytes saved target: 16683
+Compressing: Medicare1_1; Row Group 0
+Numerical: src 1 and target 0; bytes saved source: 0; bytes saved target: 5440
+Compressing: MedPayment1_1; Row Group 0
+Compressing: MLB_1; Row Group 0
+Numerical: src 38 and target 43; bytes saved source: 0; bytes saved target: 44881
+Numerical: src 0 and target 20; bytes saved source: 0; bytes saved target: 28832
+Numerical: src 0 and target 5; bytes saved source: 0; bytes saved target: 19296
+Numerical: src 13 and target 29; bytes saved source: 0; bytes saved target: 2848
+Compressing: Motos_1; Row Group 0
+Compressing: MulheresMil_1; Row Group 0
+Compressing: NYC_1; Row Group 0
+Compressing: PanCreactomy1_1; Row Group 0
+Compressing: Physicians_1; Row Group 0
+Compressing: Provider_1; Row Group 0
+Compressing: RealEstate1_1; Row Group 0
+Compressing: Redfin1_1; Row Group 0
+Compressing: Rentabilidad_1; Row Group 0
+Compressing: Romance_1; Row Group 0
+Compressing: SalariesFrance_1; Row Group 0
+Compressing: TableroSistemaPenal_1; Row Group 0
+Compressing: Taxpayer_1; Row Group 0
+Compressing: Telco_1; Row Group 0
+Compressing: TrainsUK1_2; Row Group 0
+Compressing: TrainsUK2_1; Row Group 0
+Numerical: src 18 and target 17; bytes saved source: 0; bytes saved target: 33385
+Compressing: Uberlandia_1; Row Group 0
+Numerical: src 9 and target 5; bytes saved source: 0; bytes saved target: 26361
+Compressing: USCensus_1; Row Group 0
+Numerical: src 315 and target 314; bytes saved source: 0; bytes saved target: 164944
+Numerical: src 276 and target 277; bytes saved source: 0; bytes saved target: 77213
+Numerical: src 331 and target 329; bytes saved source: 0; bytes saved target: 33872
+Numerical: src 319 and target 297; bytes saved source: 0; bytes saved target: 26524
+Numerical: src 177 and target 223; bytes saved source: 0; bytes saved target: 15832
+Numerical: src 356 and target 278; bytes saved source: 0; bytes saved target: 12832
+Numerical: src 240 and target 220; bytes saved source: 0; bytes saved target: 9748
+Compressing: Wins_1; Row Group 0
+Numerical: src 136 and target 83; bytes saved source: 0; bytes saved target: 38208
+Numerical: src 224 and target 215; bytes saved source: 0; bytes saved target: 24828
+Numerical: src 123 and target 189; bytes saved source: 0; bytes saved target: 9489
+Numerical: src 123 and target 79; bytes saved source: 0; bytes saved target: 5500
+Numerical: src 64 and target 65; bytes saved source: 0; bytes saved target: 5497
+Numerical: src 37 and target 38; bytes saved source: 0; bytes saved target: 4449
+Numerical: src 66 and target 75; bytes saved source: 0; bytes saved target: 4076
+Numerical: src 85 and target 84; bytes saved source: 0; bytes saved target: 3712
+Numerical: src 64 and target 63; bytes saved source: 0; bytes saved target: 3319
+Numerical: src 126 and target 43; bytes saved source: 0; bytes saved target: 2672
+Compressing: YaleLanguages_1; Row Group 0
+Numerical: src 20 and target 21; bytes saved source: 0; bytes saved target: 32601
+Numerical: src 2 and target 16; bytes saved source: 0; bytes saved target: 27372

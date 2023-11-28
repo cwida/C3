@@ -1,0 +1,1039 @@
+columns:
+  - name: ACCESS
+    type: integer
+  - name: ACR
+    type: integer
+  - name: ADJHSG
+    type: integer
+  - name: ADJINC
+    type: integer
+  - name: ADJINC1
+    type: integer
+  - name: AGEP
+    type: integer
+  - name: AGS
+    type: integer
+  - name: ANC1P
+    type: integer
+  - name: ANC2P
+    type: integer
+  - name: ANC
+    type: integer
+  - name: BATH
+    type: integer
+  - name: BDSP
+    type: integer
+  - name: BLD
+    type: integer
+  - name: BROADBND
+    type: integer
+  - name: BUS
+    type: integer
+  - name: CITWP
+    type: integer
+  - name: CIT
+    type: integer
+  - name: COMPOTHX
+    type: integer
+  - name: CONP
+    type: integer
+  - name: COW
+    type: integer
+  - name: DDRS
+    type: integer
+  - name: DEAR
+    type: integer
+  - name: DECADE
+    type: integer
+  - name: DEYE
+    type: integer
+  - name: DIALUP
+    type: integer
+  - name: DIS
+    type: integer
+  - name: DIVISION
+    type: integer
+  - name: DOUT
+    type: integer
+  - name: DPHY
+    type: integer
+  - name: DRATX
+    type: integer
+  - name: DRAT
+    type: integer
+  - name: DREM
+    type: integer
+  - name: DRIVESP
+    type: integer
+  - name: DSL
+    type: integer
+  - name: ELEP
+    type: integer
+  - name: ENG
+    type: integer
+  - name: ESP
+    type: integer
+  - name: ESR
+    type: integer
+  - name: FACCESSP
+    type: integer
+  - name: FACRP
+    type: integer
+  - name: FAGEP
+    type: integer
+  - name: FAGSP
+    type: integer
+  - name: FANCP
+    type: integer
+  - name: FBATHP
+    type: integer
+  - name: FBDSP
+    type: integer
+  - name: FBLDP
+    type: integer
+  - name: FBROADBNDP
+    type: integer
+  - name: FBUSP
+    type: integer
+  - name: FCITP
+    type: integer
+  - name: FCITWP
+    type: integer
+  - name: FCOMPOTHXP
+    type: integer
+  - name: FCONP
+    type: integer
+  - name: FCOWP
+    type: integer
+  - name: FDDRSP
+    type: integer
+  - name: FDEARP
+    type: integer
+  - name: FDEYEP
+    type: integer
+  - name: FDIALUPP
+    type: integer
+  - name: FDISP
+    type: integer
+  - name: FDOUTP
+    type: integer
+  - name: FDPHYP
+    type: integer
+  - name: FDRATP
+    type: integer
+  - name: FDRATXP
+    type: integer
+  - name: FDREMP
+    type: integer
+  - name: FDSLP
+    type: integer
+  - name: FELEP
+    type: integer
+  - name: FENGP
+    type: integer
+  - name: FER
+    type: integer
+  - name: FESRP
+    type: integer
+  - name: FES
+    type: integer
+  - name: FFERP
+    type: integer
+  - name: FFIBEROPP
+    type: integer
+  - name: FFINCP
+    type: integer
+  - name: FFODP
+    type: integer
+  - name: FFSP
+    type: integer
+  - name: FFULP
+    type: integer
+  - name: FGASP
+    type: integer
+  - name: FGCLP
+    type: integer
+  - name: FGCMP
+    type: integer
+  - name: FGCRP
+    type: integer
+  - name: FGRNTP
+    type: integer
+  - name: FHANDHELDP
+    type: integer
+  - name: FHFLP
+    type: integer
+  - name: FHINCP
+    type: integer
+  - name: FHINS1P
+    type: integer
+  - name: FHINS2P
+    type: integer
+  - name: FHINS3C
+    type: integer
+  - name: FHINS3P
+    type: integer
+  - name: FHINS4C
+    type: integer
+  - name: FHINS4P
+    type: integer
+  - name: FHINS5C
+    type: integer
+  - name: FHINS5P
+    type: integer
+  - name: FHINS6P
+    type: integer
+  - name: FHINS7P
+    type: integer
+  - name: FHISP
+    type: integer
+  - name: FIBEROP
+    type: integer
+  - name: FINCP
+    type: integer
+  - name: FINDP
+    type: integer
+  - name: FINSP
+    type: integer
+  - name: FINTP
+    type: integer
+  - name: FJWDP
+    type: integer
+  - name: FJWMNP
+    type: integer
+  - name: FJWRIP
+    type: integer
+  - name: FJWTRP
+    type: integer
+  - name: FKITP
+    type: integer
+  - name: FLANP
+    type: integer
+  - name: FLANXP
+    type: integer
+  - name: FLAPTOPP
+    type: integer
+  - name: FMARHDP
+    type: integer
+  - name: FMARHMP
+    type: integer
+  - name: FMARHTP
+    type: integer
+  - name: FMARHWP
+    type: integer
+  - name: FMARHYP
+    type: integer
+  - name: FMARP
+    type: integer
+  - name: FMHP
+    type: integer
+  - name: FMIGP
+    type: integer
+  - name: FMIGSP
+    type: integer
+  - name: FMILPP
+    type: integer
+  - name: FMILSP
+    type: integer
+  - name: FMODEMP
+    type: integer
+  - name: FMRGIP
+    type: integer
+  - name: FMRGP
+    type: integer
+  - name: FMRGTP
+    type: integer
+  - name: FMRGXP
+    type: integer
+  - name: FMVP
+    type: integer
+  - name: FOCCP
+    type: integer
+  - name: FOD1P
+    type: integer
+  - name: FOD2P
+    type: integer
+  - name: FOIP
+    type: integer
+  - name: FOTHSVCEXP
+    type: integer
+  - name: FPAP
+    type: integer
+  - name: FPARC
+    type: integer
+  - name: FPERNP
+    type: integer
+  - name: FPINCP
+    type: integer
+  - name: FPLMP
+    type: integer
+  - name: FPOBP
+    type: integer
+  - name: FPOWSP
+    type: integer
+  - name: FPRIVCOVP
+    type: integer
+  - name: FPUBCOVP
+    type: integer
+  - name: FRACP
+    type: integer
+  - name: FREFRP
+    type: integer
+  - name: FRELP
+    type: integer
+  - name: FRETP
+    type: integer
+  - name: FRMSP
+    type: integer
+  - name: FRNTMP
+    type: integer
+  - name: FRNTP
+    type: integer
+  - name: FRWATPRP
+    type: integer
+  - name: FRWATP
+    type: integer
+  - name: FSATELLITEP
+    type: integer
+  - name: FSCHGP
+    type: integer
+  - name: FSCHLP
+    type: integer
+  - name: FSCHP
+    type: integer
+  - name: FSEMP
+    type: integer
+  - name: FSEXP
+    type: integer
+  - name: FSINKP
+    type: integer
+  - name: FSMOCP
+    type: integer
+  - name: FSMP
+    type: integer
+  - name: FSMXHP
+    type: integer
+  - name: FSMXSP
+    type: integer
+  - name: FSSIP
+    type: integer
+  - name: FSSP
+    type: integer
+  - name: FSTOVP
+    type: integer
+  - name: FS
+    type: integer
+  - name: FTAXP
+    type: integer
+  - name: FTELP
+    type: integer
+  - name: FTENP
+    type: integer
+  - name: FTOILP
+    type: integer
+  - name: FULP
+    type: integer
+  - name: FVACSP
+    type: integer
+  - name: FVALP
+    type: integer
+  - name: FVEHP
+    type: integer
+  - name: FWAGP
+    type: integer
+  - name: FWATP
+    type: integer
+  - name: FWKHP
+    type: integer
+  - name: FWKLP
+    type: integer
+  - name: FWKWP
+    type: integer
+  - name: FWRKP
+    type: integer
+  - name: FYBLP
+    type: integer
+  - name: FYOEP
+    type: integer
+  - name: GASP
+    type: integer
+  - name: GCL
+    type: integer
+  - name: GCM
+    type: integer
+  - name: GCR
+    type: integer
+  - name: GRNTP
+    type: integer
+  - name: GRPIP
+    type: integer
+  - name: HANDHELD
+    type: integer
+  - name: HFL
+    type: integer
+  - name: HHL
+    type: integer
+  - name: HHT
+    type: integer
+  - name: HICOV
+    type: integer
+  - name: HINCP
+    type: integer
+  - name: HINS1
+    type: integer
+  - name: HINS2
+    type: integer
+  - name: HINS3
+    type: integer
+  - name: HINS4
+    type: integer
+  - name: HINS5
+    type: integer
+  - name: HINS6
+    type: integer
+  - name: HINS7
+    type: integer
+  - name: HISP
+    type: integer
+  - name: HUGCL
+    type: integer
+  - name: HUPAC
+    type: integer
+  - name: HUPAOC
+    type: integer
+  - name: HUPARC
+    type: integer
+  - name: INDP
+    type: integer
+  - name: INSP
+    type: integer
+  - name: INTP
+    type: integer
+  - name: JWAP
+    type: integer
+  - name: JWDP
+    type: integer
+  - name: JWMNP
+    type: integer
+  - name: JWRIP
+    type: integer
+  - name: JWTR
+    type: integer
+  - name: KIT
+    type: integer
+  - name: LANP
+    type: integer
+  - name: LANX
+    type: integer
+  - name: LAPTOP
+    type: integer
+  - name: LNGI
+    type: integer
+  - name: MARHD
+    type: integer
+  - name: MARHM
+    type: integer
+  - name: MARHT
+    type: integer
+  - name: MARHW
+    type: integer
+  - name: MARHYP
+    type: integer
+  - name: MAR
+    type: integer
+  - name: MHP
+    type: integer
+  - name: MIGPUMA
+    type: integer
+  - name: MIGSP
+    type: integer
+  - name: MIG
+    type: integer
+  - name: MIL
+    type: integer
+  - name: MLPA
+    type: integer
+  - name: MLPB
+    type: integer
+  - name: MLPCD
+    type: integer
+  - name: MLPE
+    type: integer
+  - name: MLPFG
+    type: integer
+  - name: MLPH
+    type: integer
+  - name: MLPI
+    type: integer
+  - name: MLPJ
+    type: integer
+  - name: MLPK
+    type: integer
+  - name: MODEM
+    type: integer
+  - name: MRGI
+    type: integer
+  - name: MRGP
+    type: integer
+  - name: MRGT
+    type: integer
+  - name: MRGX
+    type: integer
+  - name: MSP
+    type: integer
+  - name: MULTG
+    type: integer
+  - name: MV
+    type: integer
+  - name: NAICSP
+    type: string
+  - name: NATIVITY
+    type: integer
+  - name: NOC
+    type: integer
+  - name: NOP
+    type: integer
+  - name: NPF
+    type: integer
+  - name: NPP
+    type: integer
+  - name: NP
+    type: integer
+  - name: NRC
+    type: integer
+  - name: NR
+    type: integer
+  - name: NWAB
+    type: integer
+  - name: NWAV
+    type: integer
+  - name: NWLA
+    type: integer
+  - name: NWLK
+    type: integer
+  - name: NWRE
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: OCCP
+    type: integer
+  - name: OCPIP
+    type: integer
+  - name: OC
+    type: integer
+  - name: OIP
+    type: integer
+  - name: OTHSVCEX
+    type: integer
+  - name: PAOC
+    type: integer
+  - name: PAP
+    type: integer
+  - name: PARTNER
+    type: integer
+  - name: PERNP
+    type: integer
+  - name: PINCP
+    type: integer
+  - name: PLM
+    type: integer
+  - name: POBP
+    type: integer
+  - name: POVPIP
+    type: integer
+  - name: POWPUMA
+    type: integer
+  - name: POWSP
+    type: integer
+  - name: PRIVCOV
+    type: integer
+  - name: PSF
+    type: integer
+  - name: PUBCOV
+    type: integer
+  - name: PUMA
+    type: integer
+  - name: PUMA1
+    type: integer
+  - name: PWGTP
+    type: integer
+  - name: QTRBIR
+    type: integer
+  - name: R18
+    type: integer
+  - name: R60
+    type: integer
+  - name: R65
+    type: integer
+  - name: RAC1P
+    type: integer
+  - name: RAC2P
+    type: integer
+  - name: RAC3P
+    type: integer
+  - name: RACAIAN
+    type: integer
+  - name: RACASN
+    type: integer
+  - name: RACBLK
+    type: integer
+  - name: RACNH
+    type: integer
+  - name: RACNUM
+    type: integer
+  - name: RACPI
+    type: integer
+  - name: RACSOR
+    type: integer
+  - name: RACWHT
+    type: integer
+  - name: RC
+    type: integer
+  - name: REFR
+    type: integer
+  - name: REGION
+    type: integer
+  - name: RELP
+    type: integer
+  - name: RESMODE
+    type: integer
+  - name: RETP
+    type: integer
+  - name: RMSP
+    type: integer
+  - name: RNTM
+    type: integer
+  - name: RNTP
+    type: integer
+  - name: RT
+    type: string
+  - name: RT1
+    type: string
+  - name: RWATPR
+    type: integer
+  - name: RWAT
+    type: integer
+  - name: SATELLITE
+    type: integer
+  - name: SCHG
+    type: integer
+  - name: SCHL
+    type: integer
+  - name: SCH
+    type: integer
+  - name: SCIENGP
+    type: integer
+  - name: SCIENGRLP
+    type: integer
+  - name: SEMP
+    type: integer
+  - name: SERIALNO
+    type: integer
+  - name: SERIALNO1
+    type: integer
+  - name: SEX
+    type: integer
+  - name: SFN
+    type: integer
+  - name: SFR
+    type: integer
+  - name: SINK
+    type: integer
+  - name: SMOCP
+    type: integer
+  - name: SMP
+    type: integer
+  - name: SMX
+    type: integer
+  - name: SOCP
+    type: string
+  - name: SPORDER
+    type: integer
+  - name: SRNT
+    type: integer
+  - name: SSIP
+    type: integer
+  - name: SSMC
+    type: integer
+  - name: SSP
+    type: integer
+  - name: ST
+    type: integer
+  - name: STOV
+    type: integer
+  - name: ST1
+    type: integer
+  - name: SVAL
+    type: integer
+  - name: TAXP
+    type: integer
+  - name: TEL
+    type: integer
+  - name: TEN
+    type: integer
+  - name: TOIL
+    type: integer
+  - name: TYPE
+    type: integer
+  - name: Table Name
+    type: string
+  - name: Table Name1
+    type: string
+  - name: VACS
+    type: skip
+  - name: VALP
+    type: integer
+  - name: VEH
+    type: integer
+  - name: VPS
+    type: integer
+  - name: WAGP
+    type: integer
+  - name: WAOB
+    type: integer
+  - name: WATP
+    type: integer
+  - name: WGTP
+    type: integer
+  - name: WIF
+    type: integer
+  - name: WKEXREL
+    type: integer
+  - name: WKHP
+    type: integer
+  - name: WKL
+    type: integer
+  - name: WKW
+    type: integer
+  - name: WORKSTAT
+    type: integer
+  - name: WRK
+    type: integer
+  - name: YBL
+    type: integer
+  - name: YOEP
+    type: integer
+  - name: pwgtp10
+    type: integer
+  - name: pwgtp11
+    type: integer
+  - name: pwgtp12
+    type: integer
+  - name: pwgtp13
+    type: integer
+  - name: pwgtp14
+    type: integer
+  - name: pwgtp15
+    type: integer
+  - name: pwgtp16
+    type: integer
+  - name: pwgtp17
+    type: integer
+  - name: pwgtp18
+    type: integer
+  - name: pwgtp19
+    type: integer
+  - name: pwgtp1
+    type: integer
+  - name: pwgtp20
+    type: integer
+  - name: pwgtp21
+    type: integer
+  - name: pwgtp22
+    type: integer
+  - name: pwgtp23
+    type: integer
+  - name: pwgtp24
+    type: integer
+  - name: pwgtp25
+    type: integer
+  - name: pwgtp26
+    type: integer
+  - name: pwgtp27
+    type: integer
+  - name: pwgtp28
+    type: integer
+  - name: pwgtp29
+    type: integer
+  - name: pwgtp2
+    type: integer
+  - name: pwgtp30
+    type: integer
+  - name: pwgtp31
+    type: integer
+  - name: pwgtp32
+    type: integer
+  - name: pwgtp33
+    type: integer
+  - name: pwgtp34
+    type: integer
+  - name: pwgtp35
+    type: integer
+  - name: pwgtp36
+    type: integer
+  - name: pwgtp37
+    type: integer
+  - name: pwgtp38
+    type: integer
+  - name: pwgtp39
+    type: integer
+  - name: pwgtp3
+    type: integer
+  - name: pwgtp40
+    type: integer
+  - name: pwgtp41
+    type: integer
+  - name: pwgtp42
+    type: integer
+  - name: pwgtp43
+    type: integer
+  - name: pwgtp44
+    type: integer
+  - name: pwgtp45
+    type: integer
+  - name: pwgtp46
+    type: integer
+  - name: pwgtp47
+    type: integer
+  - name: pwgtp48
+    type: integer
+  - name: pwgtp49
+    type: integer
+  - name: pwgtp4
+    type: integer
+  - name: pwgtp50
+    type: integer
+  - name: pwgtp51
+    type: integer
+  - name: pwgtp52
+    type: integer
+  - name: pwgtp53
+    type: integer
+  - name: pwgtp54
+    type: integer
+  - name: pwgtp55
+    type: integer
+  - name: pwgtp56
+    type: integer
+  - name: pwgtp57
+    type: integer
+  - name: pwgtp58
+    type: integer
+  - name: pwgtp59
+    type: integer
+  - name: pwgtp5
+    type: integer
+  - name: pwgtp60
+    type: integer
+  - name: pwgtp61
+    type: integer
+  - name: pwgtp62
+    type: integer
+  - name: pwgtp63
+    type: integer
+  - name: pwgtp64
+    type: integer
+  - name: pwgtp65
+    type: integer
+  - name: pwgtp66
+    type: integer
+  - name: pwgtp67
+    type: integer
+  - name: pwgtp68
+    type: integer
+  - name: pwgtp69
+    type: integer
+  - name: pwgtp6
+    type: integer
+  - name: pwgtp70
+    type: integer
+  - name: pwgtp71
+    type: integer
+  - name: pwgtp72
+    type: integer
+  - name: pwgtp73
+    type: integer
+  - name: pwgtp74
+    type: integer
+  - name: pwgtp75
+    type: integer
+  - name: pwgtp76
+    type: integer
+  - name: pwgtp77
+    type: integer
+  - name: pwgtp78
+    type: integer
+  - name: pwgtp79
+    type: integer
+  - name: pwgtp7
+    type: integer
+  - name: pwgtp80
+    type: integer
+  - name: pwgtp8
+    type: integer
+  - name: pwgtp9
+    type: integer
+  - name: wgtp10
+    type: integer
+  - name: wgtp11
+    type: integer
+  - name: wgtp12
+    type: integer
+  - name: wgtp13
+    type: integer
+  - name: wgtp14
+    type: integer
+  - name: wgtp15
+    type: integer
+  - name: wgtp16
+    type: integer
+  - name: wgtp17
+    type: integer
+  - name: wgtp18
+    type: integer
+  - name: wgtp19
+    type: integer
+  - name: wgtp1
+    type: integer
+  - name: wgtp20
+    type: integer
+  - name: wgtp21
+    type: integer
+  - name: wgtp22
+    type: integer
+  - name: wgtp23
+    type: integer
+  - name: wgtp24
+    type: integer
+  - name: wgtp25
+    type: integer
+  - name: wgtp26
+    type: integer
+  - name: wgtp27
+    type: integer
+  - name: wgtp28
+    type: integer
+  - name: wgtp29
+    type: integer
+  - name: wgtp2
+    type: integer
+  - name: wgtp30
+    type: integer
+  - name: wgtp31
+    type: integer
+  - name: wgtp32
+    type: integer
+  - name: wgtp33
+    type: integer
+  - name: wgtp34
+    type: integer
+  - name: wgtp35
+    type: integer
+  - name: wgtp36
+    type: integer
+  - name: wgtp37
+    type: integer
+  - name: wgtp38
+    type: integer
+  - name: wgtp39
+    type: integer
+  - name: wgtp3
+    type: integer
+  - name: wgtp40
+    type: integer
+  - name: wgtp41
+    type: integer
+  - name: wgtp42
+    type: integer
+  - name: wgtp43
+    type: integer
+  - name: wgtp44
+    type: integer
+  - name: wgtp45
+    type: integer
+  - name: wgtp46
+    type: integer
+  - name: wgtp47
+    type: integer
+  - name: wgtp48
+    type: integer
+  - name: wgtp49
+    type: integer
+  - name: wgtp4
+    type: integer
+  - name: wgtp50
+    type: integer
+  - name: wgtp51
+    type: integer
+  - name: wgtp52
+    type: integer
+  - name: wgtp53
+    type: integer
+  - name: wgtp54
+    type: integer
+  - name: wgtp55
+    type: integer
+  - name: wgtp56
+    type: integer
+  - name: wgtp57
+    type: integer
+  - name: wgtp58
+    type: integer
+  - name: wgtp59
+    type: integer
+  - name: wgtp5
+    type: integer
+  - name: wgtp60
+    type: integer
+  - name: wgtp61
+    type: integer
+  - name: wgtp62
+    type: integer
+  - name: wgtp63
+    type: integer
+  - name: wgtp64
+    type: integer
+  - name: wgtp65
+    type: integer
+  - name: wgtp66
+    type: integer
+  - name: wgtp67
+    type: integer
+  - name: wgtp68
+    type: integer
+  - name: wgtp69
+    type: integer
+  - name: wgtp6
+    type: integer
+  - name: wgtp70
+    type: integer
+  - name: wgtp71
+    type: integer
+  - name: wgtp72
+    type: integer
+  - name: wgtp73
+    type: integer
+  - name: wgtp74
+    type: integer
+  - name: wgtp75
+    type: integer
+  - name: wgtp76
+    type: integer
+  - name: wgtp77
+    type: integer
+  - name: wgtp78
+    type: integer
+  - name: wgtp79
+    type: integer
+  - name: wgtp7
+    type: integer
+  - name: wgtp80
+    type: integer
+  - name: wgtp8
+    type: integer
+  - name: wgtp9
+    type: integer
+  - name: Wagp (bin)
+    type: integer
+  - name: Agep (bin)
+    type: integer

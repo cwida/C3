@@ -1,0 +1,515 @@
+columns:
+  - name: Calculation_-2642768498522718196
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: nABL1
+    type: double
+  - name: nABL2
+    type: double
+  - name: nABLF
+    type: double
+  - name: nABOUT
+    type: integer
+  - name: nACL
+    type: integer
+  - name: nAE
+    type: integer
+  - name: nAFIN
+    type: integer
+  - name: nAGE
+    type: integer
+  - name: nAODD
+    type: double
+  - name: nBADCLASS
+    type: integer
+  - name: nBADFAV
+    type: integer
+  - name: nBARN
+    type: integer
+  - name: nBEATCLM
+    type: integer
+  - name: nBIGLOSER
+    type: integer
+  - name: nBLOWOUT
+    type: integer
+  - name: nBTL
+    type: integer
+  - name: nBUGBOY
+    type: integer
+  - name: nC90X
+    type: integer
+  - name: nC90
+    type: integer
+  - name: nCHAOS
+    type: integer
+  - name: nCHG
+    type: integer
+  - name: nCLASSFIT
+    type: integer
+  - name: nCLASSX
+    type: integer
+  - name: nCLASS
+    type: integer
+  - name: nCLA
+    type: integer
+  - name: nCLCH
+    type: integer
+  - name: nCLMVALUE
+    type: integer
+  - name: nCLM
+    type: integer
+  - name: nCONT
+    type: integer
+  - name: nCOUPLED
+    type: integer
+  - name: nCOURSE
+    type: integer
+  - name: nDIST
+    type: double
+  - name: nDS
+    type: integer
+  - name: nEDIF
+    type: integer
+  - name: nEEN
+    type: double
+  - name: nEPR
+    type: integer
+  - name: nEPR_PAC
+    type: integer
+  - name: nEPS365D
+    type: integer
+  - name: nEPSLIFE
+    type: integer
+  - name: nESHOCK
+    type: integer
+  - name: nEXA
+    type: double
+  - name: nFAV1
+    type: integer
+  - name: nFAV2
+    type: integer
+  - name: nFC
+    type: integer
+  - name: nFIRST_TAG
+    type: integer
+  - name: nFIT
+    type: integer
+  - name: nFLD
+    type: integer
+  - name: nFPSX
+    type: integer
+  - name: nFR1
+    type: double
+  - name: nFR2
+    type: double
+  - name: nFR3
+    type: double
+  - name: nFTI
+    type: integer
+  - name: nFTS
+    type: integer
+  - name: nGATEBRK
+    type: integer
+  - name: nGELDING
+    type: integer
+  - name: nGOODIES
+    type: integer
+  - name: nH4C
+    type: integer
+  - name: nHAG
+    type: integer
+  - name: nHTR
+    type: integer
+  - name: nIDX
+    type: string
+  - name: nIMP1
+    type: integer
+  - name: nIMP2
+    type: integer
+  - name: nIMP3
+    type: integer
+  - name: nIMP4
+    type: integer
+  - name: nIMPROVE
+    type: integer
+  - name: nJ14ST
+    type: integer
+  - name: nJ14WN
+    type: integer
+  - name: nJKCH
+    type: integer
+  - name: nJKYHST
+    type: integer
+  - name: nJKYHW
+    type: integer
+  - name: nJKY
+    type: integer
+  - name: nK2LINE
+    type: integer
+  - name: nK2
+    type: double
+  - name: nKAT
+    type: integer
+  - name: nKENTENDER
+    type: integer
+  - name: nKEY
+    type: integer
+  - name: nKGAPX
+    type: double
+  - name: nKGAP
+    type: integer
+  - name: nKLINE
+    type: double
+  - name: nKMS
+    type: double
+  - name: nKMSeCHART
+    type: double
+  - name: nKPROB1
+    type: integer
+  - name: nKPROB2
+    type: integer
+  - name: nKPROB3
+    type: integer
+  - name: nK
+    type: double
+  - name: nLAY90
+    type: integer
+  - name: nLAYZONE
+    type: integer
+  - name: nLAY
+    type: integer
+  - name: nLCLAS
+    type: integer
+  - name: nLCSF
+    type: integer
+  - name: nLDIST
+    type: double
+  - name: nLDR
+    type: integer
+  - name: nLFIN
+    type: integer
+  - name: nLFST
+    type: integer
+  - name: nLFWP
+    type: integer
+  - name: nLIVEA
+    type: integer
+  - name: nLIVEL
+    type: integer
+  - name: nLIVEP
+    type: integer
+  - name: nLIVES
+    type: integer
+  - name: nLODDS
+    type: double
+  - name: nLONERAZOR
+    type: integer
+  - name: nLONESP
+    type: integer
+  - name: nLONG
+    type: integer
+  - name: nLPER
+    type: double
+  - name: nLPOS1
+    type: integer
+  - name: nLRACE
+    type: integer
+  - name: nLSHOCK
+    type: integer
+  - name: nLSURF
+    type: integer
+  - name: nLTOP
+    type: integer
+  - name: nLUCK
+    type: integer
+  - name: nLWD
+    type: integer
+  - name: nLWINF
+    type: integer
+  - name: nLWINS
+    type: integer
+  - name: nLoneDD
+    type: integer
+  - name: nLoneKAT6
+    type: integer
+  - name: nLoneLUCK
+    type: integer
+  - name: nMAXWINSX
+    type: integer
+  - name: nMLFAV
+    type: integer
+  - name: nMLO
+    type: double
+  - name: nNEG
+    type: integer
+  - name: nOD_PICK
+    type: integer
+  - name: nOD_SCORE
+    type: integer
+  - name: nOFFGRASS
+    type: integer
+  - name: nOTX
+    type: integer
+  - name: nOUTLOOK
+    type: integer
+  - name: nPACE
+    type: integer
+  - name: nPAC
+    type: integer
+  - name: nPDIF
+    type: double
+  - name: nPED
+    type: integer
+  - name: nPER
+    type: integer
+  - name: nPFIG
+    type: integer
+  - name: nPNT
+    type: integer
+  - name: nPPO
+    type: integer
+  - name: nPRICEPLAY
+    type: integer
+  - name: nPROB
+    type: integer
+  - name: nPSCN
+    type: double
+  - name: nPSF
+    type: integer
+  - name: nPURS
+    type: integer
+  - name: nQFIVES
+    type: integer
+  - name: nQFLAG
+    type: integer
+  - name: nQPC
+    type: integer
+  - name: nQP
+    type: integer
+  - name: nQT3
+    type: integer
+  - name: nRACE
+    type: integer
+  - name: nRAZOR
+    type: integer
+  - name: nRS
+    type: integer
+  - name: nRULE50
+    type: integer
+  - name: nRUNKS
+    type: integer
+  - name: nSCRATCHES
+    type: integer
+  - name: nSEX
+    type: integer
+  - name: nSLASH
+    type: integer
+  - name: nSTB
+    type: integer
+  - name: nSTR
+    type: integer
+  - name: nSUPERF
+    type: double
+  - name: nSUPERS
+    type: integer
+  - name: nSURF
+    type: integer
+  - name: nTAN
+    type: integer
+  - name: nTJ
+    type: integer
+  - name: nTL30S
+    type: integer
+  - name: nTL30W
+    type: integer
+  - name: nTOPPACAGO
+    type: integer
+  - name: nTOPPAC
+    type: double
+  - name: nTOPPERAGO
+    type: integer
+  - name: nTOPPER
+    type: double
+  - name: nTOPSHFAGO
+    type: integer
+  - name: nTOPSHF
+    type: double
+  - name: nTOUR
+    type: integer
+  - name: nTRCH
+    type: integer
+  - name: nTRI
+    type: double
+  - name: nTRNHST
+    type: integer
+  - name: nTRNHW
+    type: integer
+  - name: nTRN
+    type: integer
+  - name: nTRN_BUZZ
+    type: integer
+  - name: nTRN_ROIX
+    type: double
+  - name: nTopKAT
+    type: integer
+  - name: nUNK
+    type: integer
+  - name: nVBET
+    type: double
+  - name: nVEL
+    type: double
+  - name: nVI
+    type: integer
+  - name: nVK1
+    type: integer
+  - name: nWEIGHT
+    type: integer
+  - name: nWGTCH
+    type: integer
+  - name: nWINDAYSX
+    type: integer
+  - name: nWINTYPE
+    type: integer
+  - name: nWKSC
+    type: double
+  - name: nWMAR
+    type: double
+  - name: nWSR
+    type: integer
+  - name: nXADJ
+    type: integer
+  - name: nXBUY
+    type: double
+  - name: nXFAV
+    type: integer
+  - name: nXPROB
+    type: double
+  - name: nXSELL
+    type: double
+  - name: rACL
+    type: integer
+  - name: rAODD
+    type: integer
+  - name: rAP
+    type: integer
+  - name: rC90
+    type: integer
+  - name: rCLASS
+    type: integer
+  - name: rEPS365D
+    type: integer
+  - name: rEPSLIFE
+    type: integer
+  - name: rEP
+    type: integer
+  - name: rFC
+    type: integer
+  - name: rFR1
+    type: integer
+  - name: rFR2
+    type: integer
+  - name: rFR3
+    type: integer
+  - name: rFX
+    type: integer
+  - name: rHTR
+    type: integer
+  - name: rIMP1
+    type: integer
+  - name: rIMP2
+    type: integer
+  - name: rIMP3
+    type: integer
+  - name: rIMP4
+    type: integer
+  - name: rJKY
+    type: integer
+  - name: rK2
+    type: integer
+  - name: rKMS
+    type: integer
+  - name: rK
+    type: integer
+  - name: rLCSF
+    type: integer
+  - name: rLP
+    type: integer
+  - name: rMLO
+    type: integer
+  - name: rOTX
+    type: integer
+  - name: rPAC
+    type: integer
+  - name: rPED
+    type: integer
+  - name: rPER
+    type: integer
+  - name: rPFIG
+    type: integer
+  - name: rPROB
+    type: integer
+  - name: rPSCN
+    type: integer
+  - name: rSP
+    type: integer
+  - name: rTRN
+    type: integer
+  - name: rVEL
+    type: integer
+  - name: rWKSC
+    type: integer
+  - name: tCLASS
+    type: string
+  - name: tDATE
+    type: skip
+  - name: tFCID
+    type: string
+  - name: tHOR
+    type: string
+  - name: tJKY
+    type: string
+  - name: tLCLASS
+    type: string
+  - name: tLDATE
+    type: skip
+  - name: tLJKY
+    type: string
+  - name: tLRACETEXT
+    type: string
+  - name: tLTRIP
+    type: string
+  - name: tLTRK
+    type: string
+  - name: tLTRN
+    type: string
+  - name: tOWNER
+    type: string
+  - name: tPGM
+    type: integer
+  - name: tPOST
+    type: skip
+  - name: tTPG
+    type: string
+  - name: tTRK
+    type: string
+  - name: tTRN
+    type: string
+  - name: tWK1
+    type: string
+  - name: tWK2
+    type: string
+  - name: tWK3
+    type: string
+  - name: tWK4
+    type: string
+  - name: xFIN
+    type: integer
+  - name: xPLA
+    type: double
+  - name: xPL
+    type: integer
+  - name: xSHO
+    type: double
+  - name: xWIN
+    type: double

@@ -1,0 +1,53 @@
+columns:
+  - name: BENE_COUNT
+    type: integer
+  - name: BENE_COUNT_GE65
+    type: integer
+  - name: BENE_COUNT_GE65_REDACT_FLAG
+    type: string
+  - name: Calculation_3170826185336909
+    type: double
+  - name: Calculation_3170826185505725
+    type: double
+  - name: Calculation_7130826185400024
+    type: double
+  - name: Calculation_9030826185528129
+    type: double
+  - name: DESCRIPTION_FLAG
+    type: string
+  - name: DRUG_NAME
+    type: string
+  - name: GE65_REDACT_FLAG
+    type: string
+  - name: GENERIC_NAME
+    type: string
+  - name: NPI
+    type: integer
+  - name: NPPES_PROVIDER_CITY
+    type: string
+  - name: NPPES_PROVIDER_FIRST_NAME
+    type: string
+  - name: NPPES_PROVIDER_LAST_ORG_NAME
+    type: string
+  - name: NPPES_PROVIDER_STATE
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: SPECIALTY_DESC
+    type: string
+  - name: TOTAL_CLAIM_COUNT
+    type: integer
+  - name: TOTAL_CLAIM_COUNT_GE65
+    type: integer
+  - name: TOTAL_DAY_SUPPLY
+    type: integer
+  - name: TOTAL_DAY_SUPPLY_GE65
+    type: integer
+  - name: TOTAL_DRUG_COST
+    type: double
+  - name: TOTAL_DRUG_COST_GE65
+    type: double
+  - name: Calculation_6710826185428006
+    type: integer
+  - name: Avg Day Supply_Bene (bin)
+    type: integer

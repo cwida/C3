@@ -1,0 +1,283 @@
+columns:
+  - name: 'AUTOPREVENTA: Costo Fijo'
+    type: double
+  - name: 'AUTOPREVENTA: Costo Variable'
+    type: double
+  - name: 'AUTOPREVENTA: Costo de Devoluciones'
+    type: double
+  - name: 'AUTOPREVENTA: Tiempos de Venta + Traslado Autopreventa Normal'
+    type: double
+  - name: 'AUTOVENTA: Carga Paseante'
+    type: double
+  - name: 'AUTOVENTA: Costo Fijo'
+    type: double
+  - name: 'AUTOVENTA: Costo Variable'
+    type: double
+  - name: 'AUTOVENTA: Tiempos de Venta + Traslado Autoventa Normal'
+    type: double
+  - name: 'BODEGA: CEDIS Propio- Costos Bodega'
+    type: double
+  - name: 'BODEGA: Costo Arriendo Terceros'
+    type: double
+  - name: 'BODEGA: Costo Especialistas de Operaciones'
+    type: string
+  - name: 'BODEGA: Distribuidores- Costos Fijos y Variables'
+    type: double
+  - name: 'BODEGA: Mermas'
+    type: string
+  - name: CF
+    type: double
+  - name: CU
+    type: double
+  - name: Calculation_1880818214638259
+    type: double
+  - name: Calle
+    type: string
+  - name: Canal de Ventas
+    type: integer
+  - name: Ciudad UO
+    type: string
+  - name: "Descripci\xF3n de Canal"
+    type: string
+  - name: Deudor NCB
+    type: integer
+  - name: Deudor
+    type: string
+  - name: Dias de Visita CO
+    type: string
+  - name: Dias de Visita TA NCB
+    type: string
+  - name: Dias de Visita TA
+    type: string
+  - name: "D\xEDas de Entrega"
+    type: string
+  - name: "D\xEDas de Visita PR NCB"
+    type: string
+  - name: "D\xEDas de Visita PR"
+    type: string
+  - name: "D\xEFas de Entrega NCB"
+    type: string
+  - name: Figura Especifica
+    type: string
+  - name: Figura
+    type: string
+  - name: "Fijo _ Din\xE1mica"
+    type: string
+  - name: Fx CO
+    type: integer
+  - name: Fx Entrega Total NCB
+    type: integer
+  - name: Fx Entrega Total
+    type: integer
+  - name: Fx PR NCB
+    type: integer
+  - name: Fx PR
+    type: integer
+  - name: Fx TA NCB
+    type: string
+  - name: Fx TA
+    type: integer
+  - name: FxED
+    type: integer
+  - name: GEC NCB
+    type: string
+  - name: GEC
+    type: string
+  - name: 'GERENTES VENTA: Coordinadores Bronces'
+    type: double
+  - name: 'GERENTES VENTA: Costo Gerente de Ventas Normal'
+    type: double
+  - name: GUC
+    type: string
+  - name: Gerencia
+    type: string
+  - name: IN
+    type: double
+  - name: "Implementaci\xF3n Venta"
+    type: string
+  - name: Jefatura de Reparto NCB
+    type: string
+  - name: Jefatura de Reparto
+    type: string
+  - name: Jefe de Ventas NCB
+    type: string
+  - name: Jefe de Ventas
+    type: string
+  - name: Latitud AUTO PREV
+    type: double
+  - name: Latitud
+    type: skip
+  - name: "Locaci\xF3n"
+    type: string
+  - name: "Locaci\xF3n (copy)"
+    type: string
+  - name: Longitud AUTO PREV
+    type: double
+  - name: Longitud
+    type: skip
+  - name: MATCH PR con NCB
+    type: string
+  - name: "MERCADEO: Costo Refrigeraci\xF3n"
+    type: double
+  - name: 'MERCADEO: PDE'
+    type: double
+  - name: 'MERCADEO: PDV- Descuentos Habituales'
+    type: integer
+  - name: 'MERCADEO: PDV- Descuentos No Habituales'
+    type: integer
+  - name: 'MERCADEO: Prorrateo Mercaderistas'
+    type: double
+  - name: Modalidad de Venta
+    type: string
+  - name: Modalidad reparto
+    type: string
+  - name: Municipio
+    type: string
+  - name: NCB
+    type: string
+  - name: NIT
+    type: string
+  - name: Nombre del Cliente
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: ON-OFF
+    type: string
+  - name: 'OP. DISTRIBUIDORES: Costo Fijo'
+    type: double
+  - name: 'OP. DISTRIBUIDORES: Costo Variable'
+    type: double
+  - name: "OP. DISTRIBUIDORES: Filtro de Validaci\xF3n Costo Variable"
+    type: string
+  - name: 'OP. DISTRIBUIDORES: Mayoristas'
+    type: double
+  - name: 'OP. DISTRIBUIDORES: NO GVF'
+    type: double
+  - name: 'OP. DISTRIBUIDORES: Prorrateo Visitas'
+    type: double
+  - name: "OTROS VENTA: Costo de Rotaci\xF3n Pre_Televendedores"
+    type: double
+  - name: 'PREVENTA NCB: Costo de Prevendedor NCB'
+    type: double
+  - name: 'PREVENTA NCB: Tiempos de Venta + Traslado Preventa NCB'
+    type: double
+  - name: 'PREVENTA: Costo de Prevendedor Normal'
+    type: double
+  - name: 'PREVENTA: Tiempos de Venta + Traslado Preventa Normal'
+    type: double
+  - name: "Poblaci\xF3n Distribuidor GVF_GVI"
+    type: string
+  - name: Precio Prom. CF
+    type: double
+  - name: Precio Prom. CU
+    type: double
+  - name: 'REPARTO: Costo Supervisores'
+    type: double
+  - name: 'REPARTO: Costo de Bodegas Secundarias'
+    type: double
+  - name: "REPARTO: Costo de Depreciaci\xF3n"
+    type: double
+  - name: 'REPARTO: Costo de Mantenimiento'
+    type: double
+  - name: 'REPARTO: Devoluciones'
+    type: double
+  - name: 'REPARTO: Merma de Ruta'
+    type: double
+  - name: 'REPARTO: Rutas Dinamicas- Costos Fijos'
+    type: double
+  - name: 'REPARTO: Rutas Dinamicas- Costos Variables'
+    type: double
+  - name: 'REPARTO: Rutas Fijas- Costos Fijos'
+    type: double
+  - name: 'REPARTO: Rutas Fijas- Costos Variables'
+    type: double
+  - name: 'REPARTO: Tiempos de Reparto Fijo + Variable'
+    type: double
+  - name: 'REPARTO: Visitas de Reparto Acumulado Ene-May'
+    type: integer
+  - name: "Raz\xF3n Social"
+    type: string
+  - name: Rentabilidad
+    type: double
+  - name: Ruta CO
+    type: string
+  - name: Ruta ED
+    type: string
+  - name: Ruta PR NCB
+    type: string
+  - name: Ruta PR
+    type: string
+  - name: Ruta TA NCB
+    type: string
+  - name: Ruta TA
+    type: string
+  - name: Ruta de Reparto NCB
+    type: string
+  - name: Ruta de Reparto
+    type: string
+  - name: Ruta de Venta NCB
+    type: string
+  - name: Ruta de Venta
+    type: string
+  - name: Sede Foraneo Sintec
+    type: string
+  - name: "Sede_For\xE1neo"
+    type: string
+  - name: 'T1: Cedis Propio'
+    type: double
+  - name: 'T1: Distruidor Tercero'
+    type: double
+  - name: 'TELEVENTA OFIC: Costo Televendedor Normal'
+    type: string
+  - name: 'TELEVENTA OFIC: Tiempos de Venta'
+    type: string
+  - name: 'TELEVENTA: Costo Televendedor NCB'
+    type: integer
+  - name: 'TELEVENTA: Costo de Televendedor Normal'
+    type: double
+  - name: 'TELEVENTA: Tiempos de Venta Televenta NCB'
+    type: integer
+  - name: 'TELEVENTA: Tiempos de Venta Televenta Normal'
+    type: double
+  - name: TOTAL BODEGA C_ARRIENDOS
+    type: double
+  - name: TOTAL MERCADEO
+    type: double
+  - name: TOTAL REPARTO
+    type: double
+  - name: TOTAL T1
+    type: double
+  - name: TOTAL VENTA
+    type: double
+  - name: Total CdS
+    type: double
+  - name: Tradicional_ Moderno
+    type: string
+  - name: UO
+    type: string
+  - name: Util. Bruta
+    type: double
+  - name: 'VENTA:  MERMA DE VENTA'
+    type: double
+  - name: 'VENTA: Coord, OL, Merc. 14'
+    type: integer
+  - name: 'VENTA: Costo Renta Equipo Televenta NCB'
+    type: integer
+  - name: 'VENTA: Costo Renta de Equipo Televenta Normal'
+    type: double
+  - name: 'VENTA: Costo Total Mercaderistas'
+    type: double
+  - name: 'VENTA: Costo de Handheld Rutas Autoventa'
+    type: double
+  - name: 'VENTA: Costo de Handheld Rutas NCBs'
+    type: double
+  - name: 'VENTA: Costo de Handheld Rutas Preventa'
+    type: double
+  - name: 'VENTA: Costos EDI'
+    type: double
+  - name: 'VENTA: Descuentos Lista de Precios'
+    type: integer
+  - name: Zona
+    type: string
+  - name: GEC (group)
+    type: string

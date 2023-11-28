@@ -1,0 +1,25 @@
+columns:
+  - name: F1
+    type: integer
+  - name: Number of Records
+    type: integer
+  - name: caption
+    type: string
+  - name: created_time
+    type: integer
+  - name: id
+    type: string
+  - name: lat
+    type: double
+  - name: link
+    type: string
+  - name: lng
+    type: double
+  - name: location
+    type: string
+  - name: tags
+    type: string
+  - name: term
+    type: string
+  - name: user
+    type: skip

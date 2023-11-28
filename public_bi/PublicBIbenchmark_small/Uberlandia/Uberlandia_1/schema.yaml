@@ -1,0 +1,163 @@
+columns:
+  - name: Calculation_838513981443702785
+    type: string
+  - name: Calculation_838513981462429699
+    type: string
+  - name: Codigo Diploma_Certificado
+    type: string
+  - name: Cor da Pele
+    type: string
+  - name: Data Diploma_Certificado
+    type: skip
+  - name: "Data Pr\xE9-Matricula"
+    type: skip
+  - name: Number of Records
+    type: integer
+  - name: ch_catalogo_guia
+    type: integer
+  - name: ch_da_oferta
+    type: integer
+  - name: ch_max_financiavel
+    type: integer
+  - name: ch_maxima_permitida
+    type: integer
+  - name: ch_min_financiavel
+    type: integer
+  - name: ch_minima_do_curso
+    type: integer
+  - name: co_matricula_estudante
+    type: integer
+  - name: cod_da_unidade_de_ensino
+    type: integer
+  - name: cod_ibge_da_ue
+    type: integer
+  - name: cod_ibge_do_local_da_oferta
+    type: integer
+  - name: codigo_da_oferta
+    type: integer
+  - name: codigo_do_curso
+    type: integer
+  - name: comunidade_quilombola
+    type: string
+  - name: cpf aluno
+    type: string
+  - name: data de confirmacao
+    type: skip
+  - name: data de nascimento aluno
+    type: skip
+  - name: data_da_publicacao
+    type: skip
+  - name: data_de_conclusao
+    type: string
+  - name: data_de_inicio
+    type: skip
+  - name: data_de_previsaode_termino
+    type: skip
+  - name: desempregado
+    type: string
+  - name: ds_email
+    type: string
+  - name: ds_identificador_turma
+    type: string
+  - name: ds_tipo_beneficiario
+    type: string
+  - name: dt_cadastro
+    type: string
+  - name: ead
+    type: string
+  - name: edicao_catalogo_guia
+    type: string
+  - name: edital
+    type: string
+  - name: eixo_tecnologico_catalogo_guia
+    type: string
+  - name: "eixo_tecnol\xF3gico"
+    type: string
+  - name: escolaridade do aluno
+    type: string
+  - name: escolaridade_catalogo_guia
+    type: string
+  - name: forma_ingresso
+    type: string
+  - name: instituicao
+    type: string
+  - name: mantenedora
+    type: string
+  - name: municipio_da_ue
+    type: string
+  - name: municipio_do_local_da_oferta
+    type: string
+  - name: no_dependencia_admin
+    type: string
+  - name: no_modalidade
+    type: string
+  - name: no_parceiro_demandante
+    type: string
+  - name: no_programa
+    type: string
+  - name: no_sistema_ensino
+    type: string
+  - name: no_subdependencia_admin
+    type: string
+  - name: nome aluno
+    type: string
+  - name: nome da sit matricula (situacao detalhada)
+    type: string
+  - name: nome_curso_catalogo_guia
+    type: string
+  - name: nome_da_ue
+    type: string
+  - name: nome_da_uer
+    type: string
+  - name: nome_do_curso
+    type: string
+  - name: nu_telefone
+    type: string
+  - name: nu_telefone_celular
+    type: string
+  - name: oferta_cadastro_online
+    type: string
+  - name: pcd
+    type: string
+  - name: populacao_campo
+    type: string
+  - name: povo_indigena
+    type: string
+  - name: seguro_desenprego
+    type: string
+  - name: sexo do aluno
+    type: string
+  - name: situacao_da_turma
+    type: string
+  - name: st_extemporaneo_matricula
+    type: skip
+  - name: st_extemporaneo_turma
+    type: skip
+  - name: st_financiavel
+    type: string
+  - name: subtipo_curso
+    type: string
+  - name: tipo_da_oferta
+    type: string
+  - name: tipo_do_local_da_oferta
+    type: string
+  - name: total_conf_freq_aluno
+    type: string
+  - name: total_freq_aluno
+    type: integer
+  - name: transferencia_renda
+    type: string
+  - name: turno
+    type: string
+  - name: uf_da_ue
+    type: string
+  - name: uf_do_local_da_oferta
+    type: string
+  - name: unidade_demandante
+    type: string
+  - name: vagas
+    type: integer
+  - name: valor_hora_aula_proposto
+    type: string
+  - name: Calculation_838513978982854656
+    type: string

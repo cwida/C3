@@ -1,0 +1,175 @@
+Config:
+C3_WINDOW_SIZE: 100
+BYTES_SAVED_MARGIN: 0.010000
+C3_GRAPH_SHARE_SOURCE_NODES: 1
+REVERT_BB_IF_C3_BAD: 0
+USE_PRUNING_RULES: 1
+FINALIZE_GRAPH_RESORT_EDGES: 0
+USE_RANDOM_GENERATOR_SAMPLES: 0
+IGNORE_BB_ECR: 0
+C3_SAMPLE_NUM_RUNS: 6553
+C3_SAMPLE_RUN_SIZE: 1
+ENABLE_EQUALITY: 1
+ENABLE_DICT_1TO1: 0
+ENABLE_DICT_1TON: 0
+ENABLE_NUMERICAL: 0
+ENABLE_DFOR: 0
+ENABLE_DICT_SHARING: 0
+DICT_EXCEPTION_RATIO_THRESHOLD: 0.100000
+EQUALITY_EXCEPTION_RATIO_THRESHOLD: 0.100000
+DICTIONARY_COMPRESSION_SCHEME: 0
+DICTIONARY_CODES_COMPRESSION_SCHEME: 5
+EXCEPTION_COMPRESSION_SCHEME: 0
+DFOR_CODES_COMPRESSION_SCHEME: 5
+NUMERICAL_CODES_COMPRESSION_SCHEME: 5
+SHARE_ROW_GROUP_SCHEME: 1
+
+Compressing: Arade_1; Row Group 0
+Compressing: Bimbo_1; Row Group 0
+Equal: src 3 and target 11; bytes saved source: 0; bytes saved target: 28444
+Compressing: CityMaxCapita_1; Row Group 0
+Equal: src 22 and target 1; bytes saved source: 0; bytes saved target: 161651
+Equal: src 17 and target 21; bytes saved source: 0; bytes saved target: 29579
+Compressing: CMSprovider_1; Row Group 0
+Compressing: CommonGovernment_1; Row Group 0
+Equal: src 9 and target 10; bytes saved source: 0; bytes saved target: 229753
+Equal: src 41 and target 43; bytes saved source: 0; bytes saved target: 83332
+Equal: src 20 and target 21; bytes saved source: 0; bytes saved target: 60059
+Equal: src 7 and target 13; bytes saved source: 0; bytes saved target: 14017
+Compressing: Corporations_1; Row Group 0
+Equal: src 13 and target 17; bytes saved source: 0; bytes saved target: 262822
+Equal: src 16 and target 4; bytes saved source: 0; bytes saved target: 262211
+Equal: src 13 and target 22; bytes saved source: 0; bytes saved target: 262203
+Equal: src 13 and target 10; bytes saved source: 0; bytes saved target: 261961
+Equal: src 26 and target 2; bytes saved source: 0; bytes saved target: 261523
+Equal: src 26 and target 7; bytes saved source: 0; bytes saved target: 259024
+Equal: src 6 and target 25; bytes saved source: 0; bytes saved target: 131910
+Equal: src 12 and target 8; bytes saved source: 0; bytes saved target: 38097
+Compressing: Eixo_1; Row Group 0
+Equal: src 40 and target 2; bytes saved source: 0; bytes saved target: 81631
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 76129
+Equal: src 67 and target 66; bytes saved source: 0; bytes saved target: 41354
+Equal: src 3 and target 30; bytes saved source: 0; bytes saved target: 23082
+Equal: src 40 and target 38; bytes saved source: 0; bytes saved target: 10036
+Equal: src 47 and target 50; bytes saved source: 0; bytes saved target: 10026
+Equal: src 53 and target 55; bytes saved source: 0; bytes saved target: 9925
+Equal: src 20 and target 17; bytes saved source: 0; bytes saved target: 9902
+Equal: src 52 and target 54; bytes saved source: 0; bytes saved target: 9902
+Equal: src 20 and target 23; bytes saved source: 0; bytes saved target: 9101
+Equal: src 33 and target 42; bytes saved source: 0; bytes saved target: 6901
+Compressing: Euro2016_1; Row Group 0
+Equal: src 2 and target 3; bytes saved source: 0; bytes saved target: 260759
+Equal: src 2 and target 4; bytes saved source: 0; bytes saved target: 260746
+Compressing: Food_1; Row Group 0
+Compressing: Generico_1; Row Group 0
+Equal: src 8 and target 36; bytes saved source: 0; bytes saved target: 344009
+Equal: src 3 and target 5; bytes saved source: 0; bytes saved target: 2843
+Compressing: HashTags_1; Row Group 0
+Equal: src 8 and target 45; bytes saved source: 0; bytes saved target: 3377549
+Equal: src 2 and target 58; bytes saved source: 0; bytes saved target: 2958257
+Equal: src 9 and target 21; bytes saved source: 0; bytes saved target: 1227172
+Equal: src 60 and target 7; bytes saved source: 0; bytes saved target: 653622
+Equal: src 6 and target 57; bytes saved source: 0; bytes saved target: 627983
+Equal: src 27 and target 12; bytes saved source: 0; bytes saved target: 617681
+Equal: src 35 and target 16; bytes saved source: 0; bytes saved target: 292655
+Equal: src 52 and target 3; bytes saved source: 0; bytes saved target: 278717
+Equal: src 52 and target 53; bytes saved source: 0; bytes saved target: 274964
+Equal: src 34 and target 15; bytes saved source: 0; bytes saved target: 241087
+Equal: src 54 and target 4; bytes saved source: 0; bytes saved target: 27242
+Equal: src 26 and target 11; bytes saved source: 0; bytes saved target: 22774
+Equal: src 25 and target 10; bytes saved source: 0; bytes saved target: 22774
+Compressing: Hatred_1; Row Group 0
+Equal: src 24 and target 25; bytes saved source: 0; bytes saved target: 43246
+Equal: src 4 and target 3; bytes saved source: 0; bytes saved target: 32299
+Compressing: IGlocations1_1; Row Group 0
+Compressing: Medicare1_1; Row Group 0
+Equal: src 4 and target 5; bytes saved source: 0; bytes saved target: 475113
+Compressing: MedPayment1_1; Row Group 0
+Compressing: MLB_1; Row Group 0
+Compressing: Motos_1; Row Group 0
+Equal: src 8 and target 36; bytes saved source: 0; bytes saved target: 345188
+Equal: src 3 and target 5; bytes saved source: 0; bytes saved target: 2823
+Compressing: MulheresMil_1; Row Group 0
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 76305
+Equal: src 37 and target 2; bytes saved source: 0; bytes saved target: 74113
+Equal: src 67 and target 66; bytes saved source: 0; bytes saved target: 41278
+Equal: src 71 and target 33; bytes saved source: 0; bytes saved target: 23638
+Equal: src 3 and target 30; bytes saved source: 0; bytes saved target: 23346
+Equal: src 47 and target 50; bytes saved source: 0; bytes saved target: 10062
+Equal: src 40 and target 38; bytes saved source: 0; bytes saved target: 10056
+Equal: src 60 and target 55; bytes saved source: 0; bytes saved target: 9941
+Equal: src 68 and target 54; bytes saved source: 0; bytes saved target: 9922
+Equal: src 47 and target 53; bytes saved source: 0; bytes saved target: 9922
+Equal: src 52 and target 17; bytes saved source: 0; bytes saved target: 9922
+Equal: src 68 and target 20; bytes saved source: 0; bytes saved target: 9141
+Equal: src 64 and target 23; bytes saved source: 0; bytes saved target: 9113
+Equal: src 71 and target 42; bytes saved source: 0; bytes saved target: 6865
+Compressing: NYC_1; Row Group 0
+Equal: src 14 and target 19; bytes saved source: 0; bytes saved target: 261967
+Equal: src 0 and target 18; bytes saved source: 0; bytes saved target: 252949
+Equal: src 6 and target 17; bytes saved source: 0; bytes saved target: 252478
+Equal: src 26 and target 32; bytes saved source: 0; bytes saved target: 215017
+Equal: src 3 and target 25; bytes saved source: 0; bytes saved target: 13160
+Compressing: PanCreactomy1_1; Row Group 0
+Compressing: Physicians_1; Row Group 0
+Compressing: Provider_1; Row Group 0
+Compressing: RealEstate1_1; Row Group 0
+Compressing: Redfin1_1; Row Group 0
+Compressing: Rentabilidad_1; Row Group 0
+Equal: src 110 and target 121; bytes saved source: 0; bytes saved target: 523842
+Equal: src 107 and target 101; bytes saved source: 0; bytes saved target: 77856
+Equal: src 18 and target 53; bytes saved source: 0; bytes saved target: 26010
+Equal: src 18 and target 54; bytes saved source: 0; bytes saved target: 26010
+Equal: src 138 and target 41; bytes saved source: 0; bytes saved target: 20321
+Compressing: Romance_1; Row Group 0
+Compressing: SalariesFrance_1; Row Group 0
+Equal: src 23 and target 8; bytes saved source: 0; bytes saved target: 140390
+Compressing: TableroSistemaPenal_1; Row Group 0
+Equal: src 10 and target 14; bytes saved source: 0; bytes saved target: 47294
+Equal: src 8 and target 9; bytes saved source: 0; bytes saved target: 35185
+Compressing: Taxpayer_1; Row Group 0
+Compressing: Telco_1; Row Group 0
+Equal: src 166 and target 169; bytes saved source: 0; bytes saved target: 265928
+Equal: src 49 and target 47; bytes saved source: 0; bytes saved target: 10468
+Equal: src 54 and target 52; bytes saved source: 0; bytes saved target: 10448
+Compressing: TrainsUK1_2; Row Group 0
+Equal: src 3 and target 20; bytes saved source: 0; bytes saved target: 49048
+Compressing: TrainsUK2_1; Row Group 0
+Equal: src 8 and target 0; bytes saved source: 0; bytes saved target: 101054
+Equal: src 23 and target 26; bytes saved source: 0; bytes saved target: 93501
+Equal: src 17 and target 18; bytes saved source: 0; bytes saved target: 31185
+Compressing: Uberlandia_1; Row Group 0
+Equal: src 38 and target 2; bytes saved source: 0; bytes saved target: 80496
+Equal: src 35 and target 36; bytes saved source: 0; bytes saved target: 75636
+Equal: src 13 and target 14; bytes saved source: 0; bytes saved target: 74094
+Equal: src 67 and target 66; bytes saved source: 0; bytes saved target: 41254
+Equal: src 5 and target 9; bytes saved source: 0; bytes saved target: 33798
+Equal: src 71 and target 33; bytes saved source: 0; bytes saved target: 24186
+Equal: src 3 and target 30; bytes saved source: 0; bytes saved target: 23954
+Equal: src 38 and target 40; bytes saved source: 0; bytes saved target: 10048
+Equal: src 38 and target 55; bytes saved source: 0; bytes saved target: 9937
+Equal: src 52 and target 54; bytes saved source: 0; bytes saved target: 9918
+Equal: src 52 and target 53; bytes saved source: 0; bytes saved target: 9918
+Equal: src 68 and target 17; bytes saved source: 0; bytes saved target: 9918
+Equal: src 52 and target 50; bytes saved source: 0; bytes saved target: 9842
+Equal: src 52 and target 20; bytes saved source: 0; bytes saved target: 9239
+Equal: src 64 and target 23; bytes saved source: 0; bytes saved target: 9113
+Equal: src 71 and target 42; bytes saved source: 0; bytes saved target: 6857
+Compressing: USCensus_1; Row Group 0
+Equal: src 314 and target 315; bytes saved source: 0; bytes saved target: 172381
+Equal: src 276 and target 277; bytes saved source: 0; bytes saved target: 84650
+Equal: src 329 and target 331; bytes saved source: 0; bytes saved target: 41309
+Equal: src 343 and target 266; bytes saved source: 0; bytes saved target: 31282
+Equal: src 252 and target 254; bytes saved source: 0; bytes saved target: 10493
+Equal: src 329 and target 272; bytes saved source: 0; bytes saved target: 9777
+Equal: src 189 and target 95; bytes saved source: 0; bytes saved target: 5589
+Equal: src 131 and target 170; bytes saved source: 0; bytes saved target: 3589
+Compressing: Wins_1; Row Group 0
+Equal: src 80 and target 178; bytes saved source: 0; bytes saved target: 201030
+Equal: src 83 and target 136; bytes saved source: 0; bytes saved target: 45645
+Equal: src 215 and target 224; bytes saved source: 0; bytes saved target: 32265
+Compressing: YaleLanguages_1; Row Group 0
+Equal: src 0 and target 8; bytes saved source: 0; bytes saved target: 78169
+Equal: src 15 and target 6; bytes saved source: 0; bytes saved target: 66658
+Equal: src 20 and target 21; bytes saved source: 0; bytes saved target: 40038
+Equal: src 27 and target 4; bytes saved source: 0; bytes saved target: 38679

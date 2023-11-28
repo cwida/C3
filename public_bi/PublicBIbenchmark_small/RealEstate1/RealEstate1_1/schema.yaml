@@ -1,0 +1,57 @@
+columns:
+  - name: Address 1
+    type: string
+  - name: Address 2
+    type: string
+  - name: County
+    type: string
+  - name: Date of Transfer
+    type: skip
+  - name: District
+    type: string
+  - name: Duration
+    type: string
+  - name: Latitude
+    type: double
+  - name: Locality
+    type: string
+  - name: Longitude
+    type: double
+  - name: New Build?
+    type: string
+  - name: Number of Records
+    type: integer
+  - name: Postcode District
+    type: string
+  - name: Postcode Region
+    type: string
+  - name: Postcode Sector
+    type: string
+  - name: Postcode
+    type: string
+  - name: Price
+    type: integer
+  - name: Property Type
+    type: string
+  - name: Street
+    type: string
+  - name: Town_City
+    type: string
+  - name: Transaction ID
+    type: string
+  - name: Month
+    type: integer
+  - name: Calculation_7270508194941839
+    type: integer
+  - name: Calculation_5960512115909696
+    type: string
+  - name: Calculation_5480628224156393
+    type: skip
+  - name: Calculation_2630509165701334
+    type: double
+  - name: Calculation_0390512122057182
+    type: string
+  - name: Year
+    type: integer
+  - name: average monthly price per km2 (copy)
+    type: double
